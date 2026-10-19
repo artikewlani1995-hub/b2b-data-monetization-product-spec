@@ -1,0 +1,6 @@
+segment_id,name,category,definition,target_buyers_of_data,product_form
+SEG01,"Solar installers, high intent, West/South",Solar Equipment,enquiry_sent>=3 in 30d; verified buyer,"Advertisers, solar OEMs","Audience (aggregated, consented)"
+SEG02,"Packaging buyers, SMB, repeat",Packaging Materials,3+ distinct suppliers contacted in 60d,"Packaging brands, adtech","Audience (aggregated, consented)"
+SEG03,"Machinery buyers, medium+, large order value",Industrial Machinery,est_order_value top quartile; size Medium/Large,"Equipment finance, OEMs","Audience (aggregated, consented)"
+SEG04,Food-processing startups,Food Processing Equipment,new buyer <90d; 2+ category views,"Equipment lenders, distributors","Audience (aggregated, consented)"
+SEG05,"Category demand index, monthly",All,aggregate only; k>=50,"Analysts, consultancies, investors",Insights report / Data API

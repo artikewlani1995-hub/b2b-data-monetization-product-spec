@@ -1,0 +1,7 @@
+partner_id,partner_label,product_interest,stage,win_probability,notes
+P01,AdTech platform A,Audience activation,Discovery call done,0.2,Needs clean-room option
+P02,Media agency group B,Audience targeting,Pilot scoping,0.4,Wants weekly refresh
+P03,Market research firm C,Insights report,Sample sent,0.3,Wants 24-month history
+P04,AI lab D,LLM training data,Legal review needed,0.1,Privacy and licensing open questions
+P05,Equipment finance firm E,Data API,Intro call,0.15,Interest in credit-adjacent signals; compliance review needed
+P06,Consultancy F,Insights report,Pilot live,0.6,Using demand index in client work

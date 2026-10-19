@@ -1,0 +1,1201 @@
+month,category,region,enquiries,active_suppliers,avg_enquiry_value_usd,enquiry_to_response_rate
+2024-10-01,Industrial Machinery,North,3038,284,2588.0,0.85
+2024-11-01,Industrial Machinery,North,2983,336,3420.0,0.62
+2024-12-01,Industrial Machinery,North,2823,305,4838.0,0.77
+2025-01-01,Industrial Machinery,North,2878,330,4061.0,0.78
+2025-02-01,Industrial Machinery,North,2919,457,453.0,0.86
+2025-03-01,Industrial Machinery,North,2738,344,3302.0,0.62
+2025-04-01,Industrial Machinery,North,2513,416,706.0,0.78
+2025-05-01,Industrial Machinery,North,2424,209,697.0,0.64
+2025-06-01,Industrial Machinery,North,2357,381,3159.0,0.59
+2025-07-01,Industrial Machinery,North,2279,356,357.0,0.79
+2025-08-01,Industrial Machinery,North,2576,407,2196.0,0.8
+2025-09-01,Industrial Machinery,North,2660,369,3732.0,0.67
+2025-10-01,Industrial Machinery,North,2581,305,5004.0,0.6
+2025-11-01,Industrial Machinery,North,2771,315,2767.0,0.79
+2025-12-01,Industrial Machinery,North,2981,250,4218.0,0.7
+2026-01-01,Industrial Machinery,North,2929,245,272.0,0.85
+2026-02-01,Industrial Machinery,North,2735,228,371.0,0.62
+2026-03-01,Industrial Machinery,North,2569,271,486.0,0.6
+2026-04-01,Industrial Machinery,North,2368,245,4529.0,0.69
+2026-05-01,Industrial Machinery,North,2399,244,350.0,0.68
+2026-06-01,Industrial Machinery,North,2240,235,4540.0,0.6
+2026-07-01,Industrial Machinery,North,2429,308,1442.0,0.76
+2026-08-01,Industrial Machinery,North,2461,251,3112.0,0.79
+2026-09-01,Industrial Machinery,North,2638,407,513.0,0.59
+2024-10-01,Industrial Machinery,South,3066,299,1588.0,0.84
+2024-11-01,Industrial Machinery,South,3120,442,3965.0,0.57
+2024-12-01,Industrial Machinery,South,3261,293,3421.0,0.65
+2025-01-01,Industrial Machinery,South,2985,489,1651.0,0.71
+2025-02-01,Industrial Machinery,South,3050,371,3205.0,0.6
+2025-03-01,Industrial Machinery,South,3124,262,3640.0,0.79
+2025-04-01,Industrial Machinery,South,2579,415,362.0,0.87
+2025-05-01,Industrial Machinery,South,2748,448,3534.0,0.72
+2025-06-01,Industrial Machinery,South,2504,208,656.0,0.74
+2025-07-01,Industrial Machinery,South,2803,268,3880.0,0.83
+2025-08-01,Industrial Machinery,South,2809,277,4891.0,0.85
+2025-09-01,Industrial Machinery,South,2997,268,3209.0,0.77
+2025-10-01,Industrial Machinery,South,3084,319,681.0,0.77
+2025-11-01,Industrial Machinery,South,3444,332,2263.0,0.81
+2025-12-01,Industrial Machinery,South,3245,294,700.0,0.81
+2026-01-01,Industrial Machinery,South,3321,373,1451.0,0.79
+2026-02-01,Industrial Machinery,South,3159,274,1582.0,0.55
+2026-03-01,Industrial Machinery,South,3080,426,1140.0,0.87
+2026-04-01,Industrial Machinery,South,2691,237,1947.0,0.78
+2026-05-01,Industrial Machinery,South,2672,246,4960.0,0.86
+2026-06-01,Industrial Machinery,South,2614,330,969.0,0.72
+2026-07-01,Industrial Machinery,South,2830,275,5144.0,0.65
+2026-08-01,Industrial Machinery,South,2646,345,1368.0,0.69
+2026-09-01,Industrial Machinery,South,2971,376,4575.0,0.89
+2024-10-01,Industrial Machinery,East,2879,375,3387.0,0.79
+2024-11-01,Industrial Machinery,East,2825,285,3164.0,0.77
+2024-12-01,Industrial Machinery,East,2843,267,1637.0,0.82
+2025-01-01,Industrial Machinery,East,3075,459,829.0,0.74
+2025-02-01,Industrial Machinery,East,2734,422,1286.0,0.84
+2025-03-01,Industrial Machinery,East,2827,268,3014.0,0.56
+2025-04-01,Industrial Machinery,East,2691,291,5127.0,0.73
+2025-05-01,Industrial Machinery,East,2232,201,3860.0,0.63
+2025-06-01,Industrial Machinery,East,2476,297,2581.0,0.62
+2025-07-01,Industrial Machinery,East,2294,246,3618.0,0.73
+2025-08-01,Industrial Machinery,East,2539,319,5309.0,0.58
+2025-09-01,Industrial Machinery,East,2894,250,903.0,0.63
+2025-10-01,Industrial Machinery,East,2632,334,5281.0,0.88
+2025-11-01,Industrial Machinery,East,2989,490,2859.0,0.56
+2025-12-01,Industrial Machinery,East,2958,386,4988.0,0.63
+2026-01-01,Industrial Machinery,East,2856,459,3005.0,0.79
+2026-02-01,Industrial Machinery,East,2709,225,4890.0,0.73
+2026-03-01,Industrial Machinery,East,2608,231,3240.0,0.79
+2026-04-01,Industrial Machinery,East,2439,260,4534.0,0.75
+2026-05-01,Industrial Machinery,East,2483,216,1586.0,0.78
+2026-06-01,Industrial Machinery,East,2516,260,1832.0,0.6
+2026-07-01,Industrial Machinery,East,2334,259,2379.0,0.59
+2026-08-01,Industrial Machinery,East,2368,256,495.0,0.87
+2026-09-01,Industrial Machinery,East,2881,427,748.0,0.61
+2024-10-01,Industrial Machinery,West,3352,310,2343.0,0.64
+2024-11-01,Industrial Machinery,West,3240,284,5070.0,0.87
+2024-12-01,Industrial Machinery,West,3186,374,421.0,0.64
+2025-01-01,Industrial Machinery,West,3506,564,1068.0,0.55
+2025-02-01,Industrial Machinery,West,3365,450,2829.0,0.72
+2025-03-01,Industrial Machinery,West,3141,322,3952.0,0.8
+2025-04-01,Industrial Machinery,West,2555,260,4503.0,0.77
+2025-05-01,Industrial Machinery,West,2839,308,1390.0,0.63
+2025-06-01,Industrial Machinery,West,2690,394,4963.0,0.77
+2025-07-01,Industrial Machinery,West,2561,266,4839.0,0.62
+2025-08-01,Industrial Machinery,West,2802,425,4830.0,0.6
+2025-09-01,Industrial Machinery,West,2827,328,5098.0,0.74
+2025-10-01,Industrial Machinery,West,3126,320,4368.0,0.58
+2025-11-01,Industrial Machinery,West,3285,300,2124.0,0.8
+2025-12-01,Industrial Machinery,West,3318,276,4543.0,0.83
+2026-01-01,Industrial Machinery,West,3132,296,3417.0,0.87
+2026-02-01,Industrial Machinery,West,3089,461,1155.0,0.61
+2026-03-01,Industrial Machinery,West,3199,337,960.0,0.79
+2026-04-01,Industrial Machinery,West,2840,340,2458.0,0.67
+2026-05-01,Industrial Machinery,West,2746,280,480.0,0.62
+2026-06-01,Industrial Machinery,West,2626,319,4999.0,0.76
+2026-07-01,Industrial Machinery,West,2790,351,705.0,0.84
+2026-08-01,Industrial Machinery,West,3154,271,3192.0,0.62
+2026-09-01,Industrial Machinery,West,3001,283,1704.0,0.59
+2024-10-01,Industrial Machinery,Central,4350,515,4869.0,0.86
+2024-11-01,Industrial Machinery,Central,4438,419,2351.0,0.8
+2024-12-01,Industrial Machinery,Central,4168,472,324.0,0.67
+2025-01-01,Industrial Machinery,Central,4294,580,5116.0,0.78
+2025-02-01,Industrial Machinery,Central,4246,450,3005.0,0.69
+2025-03-01,Industrial Machinery,Central,3715,363,4178.0,0.89
+2025-04-01,Industrial Machinery,Central,3908,374,1587.0,0.69
+2025-05-01,Industrial Machinery,Central,3453,418,775.0,0.64
+2025-06-01,Industrial Machinery,Central,3455,381,5231.0,0.75
+2025-07-01,Industrial Machinery,Central,3681,339,661.0,0.76
+2025-08-01,Industrial Machinery,Central,3496,301,1090.0,0.72
+2025-09-01,Industrial Machinery,Central,3704,383,570.0,0.88
+2025-10-01,Industrial Machinery,Central,4075,425,2145.0,0.65
+2025-11-01,Industrial Machinery,Central,4339,563,3946.0,0.65
+2025-12-01,Industrial Machinery,Central,4128,659,1073.0,0.81
+2026-01-01,Industrial Machinery,Central,4547,433,527.0,0.9
+2026-02-01,Industrial Machinery,Central,3693,323,2473.0,0.72
+2026-03-01,Industrial Machinery,Central,3547,388,5078.0,0.8
+2026-04-01,Industrial Machinery,Central,3920,359,3367.0,0.59
+2026-05-01,Industrial Machinery,Central,3440,476,537.0,0.73
+2026-06-01,Industrial Machinery,Central,3431,342,2607.0,0.64
+2026-07-01,Industrial Machinery,Central,3462,324,2993.0,0.9
+2026-08-01,Industrial Machinery,Central,3976,535,854.0,0.86
+2026-09-01,Industrial Machinery,Central,4087,501,1663.0,0.79
+2024-10-01,Packaging Materials,North,3207,418,1665.0,0.88
+2024-11-01,Packaging Materials,North,3512,489,4194.0,0.77
+2024-12-01,Packaging Materials,North,3334,541,517.0,0.63
+2025-01-01,Packaging Materials,North,3615,314,1217.0,0.63
+2025-02-01,Packaging Materials,North,3153,388,2228.0,0.72
+2025-03-01,Packaging Materials,North,3454,319,2850.0,0.84
+2025-04-01,Packaging Materials,North,2974,343,4560.0,0.69
+2025-05-01,Packaging Materials,North,2774,251,3701.0,0.65
+2025-06-01,Packaging Materials,North,2916,410,4027.0,0.75
+2025-07-01,Packaging Materials,North,2754,297,2762.0,0.75
+2025-08-01,Packaging Materials,North,3066,280,353.0,0.66
+2025-09-01,Packaging Materials,North,3367,331,3120.0,0.82
+2025-10-01,Packaging Materials,North,3480,475,4046.0,0.66
+2025-11-01,Packaging Materials,North,3476,402,3690.0,0.87
+2025-12-01,Packaging Materials,North,3459,376,5956.0,0.71
+2026-01-01,Packaging Materials,North,3806,366,3242.0,0.58
+2026-02-01,Packaging Materials,North,3068,304,3633.0,0.83
+2026-03-01,Packaging Materials,North,3069,367,1182.0,0.76
+2026-04-01,Packaging Materials,North,2966,339,5172.0,0.83
+2026-05-01,Packaging Materials,North,2775,399,1987.0,0.56
+2026-06-01,Packaging Materials,North,2828,297,2041.0,0.74
+2026-07-01,Packaging Materials,North,2775,418,2089.0,0.56
+2026-08-01,Packaging Materials,North,2915,267,2706.0,0.8
+2026-09-01,Packaging Materials,North,3415,425,2917.0,0.67
+2024-10-01,Packaging Materials,South,2322,251,4409.0,0.8
+2024-11-01,Packaging Materials,South,2394,218,4100.0,0.85
+2024-12-01,Packaging Materials,South,2534,223,5759.0,0.77
+2025-01-01,Packaging Materials,South,2471,228,2703.0,0.7
+2025-02-01,Packaging Materials,South,2464,206,2440.0,0.61
+2025-03-01,Packaging Materials,South,2240,288,5828.0,0.57
+2025-04-01,Packaging Materials,South,1993,201,4723.0,0.61
+2025-05-01,Packaging Materials,South,2033,213,5483.0,0.56
+2025-06-01,Packaging Materials,South,1867,255,1642.0,0.8
+2025-07-01,Packaging Materials,South,1903,267,1902.0,0.61
+2025-08-01,Packaging Materials,South,2070,222,4958.0,0.72
+2025-09-01,Packaging Materials,South,2253,196,2250.0,0.74
+2025-10-01,Packaging Materials,South,2421,330,583.0,0.88
+2025-11-01,Packaging Materials,South,2432,265,3240.0,0.65
+2025-12-01,Packaging Materials,South,2510,338,362.0,0.72
+2026-01-01,Packaging Materials,South,2573,250,3755.0,0.61
+2026-02-01,Packaging Materials,South,2373,314,5255.0,0.73
+2026-03-01,Packaging Materials,South,2351,309,3347.0,0.6
+2026-04-01,Packaging Materials,South,1904,174,5123.0,0.84
+2026-05-01,Packaging Materials,South,2018,195,854.0,0.72
+2026-06-01,Packaging Materials,South,2099,220,5187.0,0.66
+2026-07-01,Packaging Materials,South,2032,176,818.0,0.84
+2026-08-01,Packaging Materials,South,2061,225,1198.0,0.84
+2026-09-01,Packaging Materials,South,2139,331,2042.0,0.71
+2024-10-01,Packaging Materials,East,3534,516,4106.0,0.79
+2024-11-01,Packaging Materials,East,4329,643,2838.0,0.85
+2024-12-01,Packaging Materials,East,4169,537,946.0,0.82
+2025-01-01,Packaging Materials,East,4239,410,5439.0,0.6
+2025-02-01,Packaging Materials,East,4180,398,5738.0,0.81
+2025-03-01,Packaging Materials,East,3531,495,2446.0,0.59
+2025-04-01,Packaging Materials,East,3516,398,3950.0,0.71
+2025-05-01,Packaging Materials,East,3228,331,1049.0,0.77
+2025-06-01,Packaging Materials,East,3211,516,2940.0,0.8
+2025-07-01,Packaging Materials,East,3118,261,2773.0,0.82
+2025-08-01,Packaging Materials,East,3659,316,1093.0,0.62
+2025-09-01,Packaging Materials,East,3733,419,5552.0,0.77
+2025-10-01,Packaging Materials,East,4179,528,4796.0,0.64
+2025-11-01,Packaging Materials,East,4292,567,1376.0,0.66
+2025-12-01,Packaging Materials,East,4315,596,2197.0,0.65
+2026-01-01,Packaging Materials,East,4416,586,3371.0,0.65
+2026-02-01,Packaging Materials,East,4237,466,3573.0,0.62
+2026-03-01,Packaging Materials,East,3916,382,5635.0,0.75
+2026-04-01,Packaging Materials,East,3925,368,1077.0,0.72
+2026-05-01,Packaging Materials,East,3403,519,5273.0,0.64
+2026-06-01,Packaging Materials,East,3408,328,1660.0,0.75
+2026-07-01,Packaging Materials,East,3263,283,1261.0,0.81
+2026-08-01,Packaging Materials,East,3721,541,5624.0,0.55
+2026-09-01,Packaging Materials,East,3885,368,2370.0,0.61
+2024-10-01,Packaging Materials,West,3245,524,1326.0,0.9
+2024-11-01,Packaging Materials,West,3721,474,4126.0,0.81
+2024-12-01,Packaging Materials,West,3692,341,393.0,0.62
+2025-01-01,Packaging Materials,West,3433,412,3546.0,0.61
+2025-02-01,Packaging Materials,West,3353,356,2193.0,0.77
+2025-03-01,Packaging Materials,West,3542,515,5768.0,0.76
+2025-04-01,Packaging Materials,West,3065,314,4229.0,0.82
+2025-05-01,Packaging Materials,West,2904,242,5078.0,0.85
+2025-06-01,Packaging Materials,West,2874,305,5460.0,0.73
+2025-07-01,Packaging Materials,West,2929,256,2128.0,0.57
+2025-08-01,Packaging Materials,West,3358,323,3706.0,0.81
+2025-09-01,Packaging Materials,West,3267,508,1009.0,0.71
+2025-10-01,Packaging Materials,West,3458,547,4261.0,0.73
+2025-11-01,Packaging Materials,West,3501,418,1644.0,0.57
+2025-12-01,Packaging Materials,West,3941,394,5239.0,0.7
+2026-01-01,Packaging Materials,West,3472,331,3531.0,0.87
+2026-02-01,Packaging Materials,West,3817,566,3364.0,0.88
+2026-03-01,Packaging Materials,West,3421,438,2151.0,0.57
+2026-04-01,Packaging Materials,West,3174,378,2332.0,0.75
+2026-05-01,Packaging Materials,West,2936,257,2055.0,0.72
+2026-06-01,Packaging Materials,West,3195,361,1477.0,0.65
+2026-07-01,Packaging Materials,West,3301,460,5076.0,0.67
+2026-08-01,Packaging Materials,West,3012,267,5974.0,0.62
+2026-09-01,Packaging Materials,West,3280,290,585.0,0.59
+2024-10-01,Packaging Materials,Central,4367,571,2696.0,0.86
+2024-11-01,Packaging Materials,Central,4385,410,2666.0,0.61
+2024-12-01,Packaging Materials,Central,3990,393,1833.0,0.8
+2025-01-01,Packaging Materials,Central,4071,532,4881.0,0.73
+2025-02-01,Packaging Materials,Central,4174,351,5404.0,0.61
+2025-03-01,Packaging Materials,Central,3737,373,2938.0,0.58
+2025-04-01,Packaging Materials,Central,3243,283,340.0,0.76
+2025-05-01,Packaging Materials,Central,3383,359,1238.0,0.9
+2025-06-01,Packaging Materials,Central,3240,311,464.0,0.83
+2025-07-01,Packaging Materials,Central,3566,366,5524.0,0.75
+2025-08-01,Packaging Materials,Central,3630,570,665.0,0.82
+2025-09-01,Packaging Materials,Central,3920,440,482.0,0.65
+2025-10-01,Packaging Materials,Central,4273,359,4543.0,0.74
+2025-11-01,Packaging Materials,Central,4440,665,2783.0,0.78
+2025-12-01,Packaging Materials,Central,4184,406,4413.0,0.64
+2026-01-01,Packaging Materials,Central,4483,466,1790.0,0.62
+2026-02-01,Packaging Materials,Central,3672,422,5320.0,0.66
+2026-03-01,Packaging Materials,Central,3908,360,3171.0,0.8
+2026-04-01,Packaging Materials,Central,3310,495,1316.0,0.77
+2026-05-01,Packaging Materials,Central,3593,368,608.0,0.7
+2026-06-01,Packaging Materials,Central,3602,345,4750.0,0.82
+2026-07-01,Packaging Materials,Central,3577,394,2460.0,0.64
+2026-08-01,Packaging Materials,Central,3759,392,2891.0,0.66
+2026-09-01,Packaging Materials,Central,4013,392,5756.0,0.59
+2024-10-01,Solar Equipment,North,4503,655,3764.0,0.81
+2024-11-01,Solar Equipment,North,4014,353,1439.0,0.69
+2024-12-01,Solar Equipment,North,4350,673,644.0,0.9
+2025-01-01,Solar Equipment,North,4441,601,2266.0,0.74
+2025-02-01,Solar Equipment,North,4299,370,3087.0,0.67
+2025-03-01,Solar Equipment,North,3846,616,3377.0,0.78
+2025-04-01,Solar Equipment,North,3905,384,6795.0,0.76
+2025-05-01,Solar Equipment,North,3545,424,6637.0,0.68
+2025-06-01,Solar Equipment,North,3450,426,1751.0,0.74
+2025-07-01,Solar Equipment,North,3453,473,3856.0,0.66
+2025-08-01,Solar Equipment,North,4095,406,6783.0,0.62
+2025-09-01,Solar Equipment,North,3819,376,3078.0,0.65
+2025-10-01,Solar Equipment,North,3977,525,3302.0,0.87
+2025-11-01,Solar Equipment,North,4499,550,1528.0,0.88
+2025-12-01,Solar Equipment,North,4870,470,7111.0,0.56
+2026-01-01,Solar Equipment,North,4626,711,6928.0,0.66
+2026-02-01,Solar Equipment,North,4395,694,3309.0,0.63
+2026-03-01,Solar Equipment,North,4284,447,625.0,0.66
+2026-04-01,Solar Equipment,North,4103,601,5626.0,0.64
+2026-05-01,Solar Equipment,North,3911,568,1908.0,0.65
+2026-06-01,Solar Equipment,North,3774,453,6807.0,0.63
+2026-07-01,Solar Equipment,North,3775,517,692.0,0.56
+2026-08-01,Solar Equipment,North,4209,387,7619.0,0.65
+2026-09-01,Solar Equipment,North,4748,650,5497.0,0.78
+2024-10-01,Solar Equipment,South,4175,426,1056.0,0.7
+2024-11-01,Solar Equipment,South,4105,494,2822.0,0.72
+2024-12-01,Solar Equipment,South,4269,507,3911.0,0.61
+2025-01-01,Solar Equipment,South,4257,649,2923.0,0.7
+2025-02-01,Solar Equipment,South,4491,439,4489.0,0.8
+2025-03-01,Solar Equipment,South,4250,519,856.0,0.69
+2025-04-01,Solar Equipment,South,4074,428,3865.0,0.66
+2025-05-01,Solar Equipment,South,3526,436,6998.0,0.75
+2025-06-01,Solar Equipment,South,3753,527,3867.0,0.77
+2025-07-01,Solar Equipment,South,3806,402,7373.0,0.82
+2025-08-01,Solar Equipment,South,4055,478,3469.0,0.65
+2025-09-01,Solar Equipment,South,4600,554,7130.0,0.56
+2025-10-01,Solar Equipment,South,4311,549,3061.0,0.89
+2025-11-01,Solar Equipment,South,4382,594,5430.0,0.63
+2025-12-01,Solar Equipment,South,4758,568,2163.0,0.72
+2026-01-01,Solar Equipment,South,4750,487,4545.0,0.84
+2026-02-01,Solar Equipment,South,4269,528,6958.0,0.66
+2026-03-01,Solar Equipment,South,4370,431,7533.0,0.84
+2026-04-01,Solar Equipment,South,4367,488,4568.0,0.68
+2026-05-01,Solar Equipment,South,4158,451,2146.0,0.64
+2026-06-01,Solar Equipment,South,3728,410,1324.0,0.57
+2026-07-01,Solar Equipment,South,3698,361,1226.0,0.71
+2026-08-01,Solar Equipment,South,4315,618,6809.0,0.85
+2026-09-01,Solar Equipment,South,4105,453,6292.0,0.69
+2024-10-01,Solar Equipment,East,3923,388,1750.0,0.85
+2024-11-01,Solar Equipment,East,4088,603,7677.0,0.77
+2024-12-01,Solar Equipment,East,4330,568,1582.0,0.62
+2025-01-01,Solar Equipment,East,4041,407,7606.0,0.72
+2025-02-01,Solar Equipment,East,4133,357,2376.0,0.64
+2025-03-01,Solar Equipment,East,4049,486,5424.0,0.6
+2025-04-01,Solar Equipment,East,4045,360,1826.0,0.67
+2025-05-01,Solar Equipment,East,3615,428,7094.0,0.84
+2025-06-01,Solar Equipment,East,3295,514,3641.0,0.85
+2025-07-01,Solar Equipment,East,3405,329,3415.0,0.6
+2025-08-01,Solar Equipment,East,3815,522,2485.0,0.85
+2025-09-01,Solar Equipment,East,4104,439,7034.0,0.86
+2025-10-01,Solar Equipment,East,3977,351,2392.0,0.75
+2025-11-01,Solar Equipment,East,4285,540,990.0,0.62
+2025-12-01,Solar Equipment,East,4544,657,443.0,0.82
+2026-01-01,Solar Equipment,East,4119,513,1425.0,0.83
+2026-02-01,Solar Equipment,East,4042,652,2994.0,0.75
+2026-03-01,Solar Equipment,East,3910,403,6519.0,0.64
+2026-04-01,Solar Equipment,East,3901,520,6356.0,0.75
+2026-05-01,Solar Equipment,East,3409,305,7390.0,0.74
+2026-06-01,Solar Equipment,East,3545,576,4508.0,0.57
+2026-07-01,Solar Equipment,East,3932,616,3091.0,0.82
+2026-08-01,Solar Equipment,East,3708,321,4058.0,0.66
+2026-09-01,Solar Equipment,East,4326,399,6081.0,0.88
+2024-10-01,Solar Equipment,West,2987,398,7130.0,0.56
+2024-11-01,Solar Equipment,West,2969,356,3127.0,0.78
+2024-12-01,Solar Equipment,West,3067,312,3014.0,0.65
+2025-01-01,Solar Equipment,West,2952,449,2871.0,0.81
+2025-02-01,Solar Equipment,West,3191,343,5430.0,0.61
+2025-03-01,Solar Equipment,West,2839,350,3582.0,0.55
+2025-04-01,Solar Equipment,West,2662,335,4370.0,0.88
+2025-05-01,Solar Equipment,West,2791,352,5978.0,0.59
+2025-06-01,Solar Equipment,West,2560,217,2017.0,0.69
+2025-07-01,Solar Equipment,West,2526,330,5408.0,0.88
+2025-08-01,Solar Equipment,West,2575,316,7722.0,0.6
+2025-09-01,Solar Equipment,West,2931,297,1963.0,0.77
+2025-10-01,Solar Equipment,West,3395,347,4131.0,0.75
+2025-11-01,Solar Equipment,West,3338,329,3748.0,0.78
+2025-12-01,Solar Equipment,West,3294,446,4841.0,0.75
+2026-01-01,Solar Equipment,West,3103,317,3701.0,0.76
+2026-02-01,Solar Equipment,West,3374,488,3863.0,0.9
+2026-03-01,Solar Equipment,West,2884,276,7722.0,0.69
+2026-04-01,Solar Equipment,West,2631,220,4029.0,0.63
+2026-05-01,Solar Equipment,West,2768,238,6535.0,0.83
+2026-06-01,Solar Equipment,West,2906,454,6837.0,0.8
+2026-07-01,Solar Equipment,West,2863,328,4364.0,0.85
+2026-08-01,Solar Equipment,West,2753,279,935.0,0.74
+2026-09-01,Solar Equipment,West,3233,433,6318.0,0.85
+2024-10-01,Solar Equipment,Central,4605,720,7368.0,0.83
+2024-11-01,Solar Equipment,Central,4186,361,7468.0,0.63
+2024-12-01,Solar Equipment,Central,4414,455,621.0,0.79
+2025-01-01,Solar Equipment,Central,4445,680,5199.0,0.74
+2025-02-01,Solar Equipment,Central,4646,393,4539.0,0.9
+2025-03-01,Solar Equipment,Central,4318,423,6649.0,0.88
+2025-04-01,Solar Equipment,Central,3632,500,6069.0,0.61
+2025-05-01,Solar Equipment,Central,3433,447,2306.0,0.67
+2025-06-01,Solar Equipment,Central,3539,585,901.0,0.62
+2025-07-01,Solar Equipment,Central,3973,374,1873.0,0.58
+2025-08-01,Solar Equipment,Central,3755,388,2459.0,0.6
+2025-09-01,Solar Equipment,Central,3775,415,3486.0,0.72
+2025-10-01,Solar Equipment,Central,4054,360,7444.0,0.58
+2025-11-01,Solar Equipment,Central,4532,511,1863.0,0.69
+2025-12-01,Solar Equipment,Central,4848,591,2860.0,0.75
+2026-01-01,Solar Equipment,Central,4544,455,484.0,0.76
+2026-02-01,Solar Equipment,Central,4673,488,6809.0,0.69
+2026-03-01,Solar Equipment,Central,4214,373,6089.0,0.59
+2026-04-01,Solar Equipment,Central,4013,553,6245.0,0.56
+2026-05-01,Solar Equipment,Central,4158,408,7725.0,0.84
+2026-06-01,Solar Equipment,Central,4002,577,928.0,0.61
+2026-07-01,Solar Equipment,Central,3954,398,841.0,0.63
+2026-08-01,Solar Equipment,Central,4159,483,2094.0,0.74
+2026-09-01,Solar Equipment,Central,3998,333,5252.0,0.83
+2024-10-01,Textiles & Fabrics,North,1814,201,4026.0,0.73
+2024-11-01,Textiles & Fabrics,North,1884,312,4610.0,0.79
+2024-12-01,Textiles & Fabrics,North,1994,199,4663.0,0.72
+2025-01-01,Textiles & Fabrics,North,1801,259,1931.0,0.68
+2025-02-01,Textiles & Fabrics,North,1824,274,2123.0,0.75
+2025-03-01,Textiles & Fabrics,North,1661,252,4795.0,0.75
+2025-04-01,Textiles & Fabrics,North,1611,161,2564.0,0.66
+2025-05-01,Textiles & Fabrics,North,1476,154,2367.0,0.9
+2025-06-01,Textiles & Fabrics,North,1414,213,868.0,0.86
+2025-07-01,Textiles & Fabrics,North,1545,225,2813.0,0.61
+2025-08-01,Textiles & Fabrics,North,1702,165,782.0,0.84
+2025-09-01,Textiles & Fabrics,North,1690,253,3602.0,0.68
+2025-10-01,Textiles & Fabrics,North,1768,209,2490.0,0.87
+2025-11-01,Textiles & Fabrics,North,1924,180,2017.0,0.65
+2025-12-01,Textiles & Fabrics,North,1880,189,2152.0,0.86
+2026-01-01,Textiles & Fabrics,North,2004,214,869.0,0.89
+2026-02-01,Textiles & Fabrics,North,1605,164,1459.0,0.76
+2026-03-01,Textiles & Fabrics,North,1634,151,1994.0,0.78
+2026-04-01,Textiles & Fabrics,North,1522,193,2662.0,0.61
+2026-05-01,Textiles & Fabrics,North,1478,135,3318.0,0.8
+2026-06-01,Textiles & Fabrics,North,1466,125,2611.0,0.73
+2026-07-01,Textiles & Fabrics,North,1495,156,718.0,0.79
+2026-08-01,Textiles & Fabrics,North,1488,126,3404.0,0.84
+2026-09-01,Textiles & Fabrics,North,1667,263,1078.0,0.59
+2024-10-01,Textiles & Fabrics,South,3962,604,1389.0,0.64
+2024-11-01,Textiles & Fabrics,South,4311,386,2074.0,0.65
+2024-12-01,Textiles & Fabrics,South,4110,345,4032.0,0.66
+2025-01-01,Textiles & Fabrics,South,4537,422,3169.0,0.57
+2025-02-01,Textiles & Fabrics,South,3772,386,2758.0,0.87
+2025-03-01,Textiles & Fabrics,South,3583,308,3672.0,0.75
+2025-04-01,Textiles & Fabrics,South,4018,472,3339.0,0.89
+2025-05-01,Textiles & Fabrics,South,3222,301,2249.0,0.81
+2025-06-01,Textiles & Fabrics,South,3400,394,778.0,0.66
+2025-07-01,Textiles & Fabrics,South,3326,496,4043.0,0.78
+2025-08-01,Textiles & Fabrics,South,3461,515,1654.0,0.88
+2025-09-01,Textiles & Fabrics,South,4127,567,2132.0,0.74
+2025-10-01,Textiles & Fabrics,South,4001,355,2394.0,0.56
+2025-11-01,Textiles & Fabrics,South,4182,416,4472.0,0.72
+2025-12-01,Textiles & Fabrics,South,4263,399,720.0,0.81
+2026-01-01,Textiles & Fabrics,South,4381,607,1819.0,0.61
+2026-02-01,Textiles & Fabrics,South,4220,462,2012.0,0.75
+2026-03-01,Textiles & Fabrics,South,3647,383,2431.0,0.89
+2026-04-01,Textiles & Fabrics,South,3817,515,1431.0,0.81
+2026-05-01,Textiles & Fabrics,South,3331,521,4001.0,0.68
+2026-06-01,Textiles & Fabrics,South,3372,347,2791.0,0.89
+2026-07-01,Textiles & Fabrics,South,3550,397,1295.0,0.81
+2026-08-01,Textiles & Fabrics,South,3385,305,400.0,0.79
+2026-09-01,Textiles & Fabrics,South,3900,487,931.0,0.88
+2024-10-01,Textiles & Fabrics,East,3983,532,952.0,0.9
+2024-11-01,Textiles & Fabrics,East,4539,562,984.0,0.62
+2024-12-01,Textiles & Fabrics,East,4672,568,1720.0,0.59
+2025-01-01,Textiles & Fabrics,East,4440,460,4028.0,0.89
+2025-02-01,Textiles & Fabrics,East,4216,599,4295.0,0.78
+2025-03-01,Textiles & Fabrics,East,4065,536,585.0,0.56
+2025-04-01,Textiles & Fabrics,East,3805,550,2017.0,0.84
+2025-05-01,Textiles & Fabrics,East,3322,508,3889.0,0.61
+2025-06-01,Textiles & Fabrics,East,3553,372,3151.0,0.66
+2025-07-01,Textiles & Fabrics,East,3620,365,2714.0,0.72
+2025-08-01,Textiles & Fabrics,East,3661,501,3159.0,0.64
+2025-09-01,Textiles & Fabrics,East,4216,653,2748.0,0.75
+2025-10-01,Textiles & Fabrics,East,4423,566,252.0,0.88
+2025-11-01,Textiles & Fabrics,East,4181,509,1852.0,0.6
+2025-12-01,Textiles & Fabrics,East,4425,646,2125.0,0.6
+2026-01-01,Textiles & Fabrics,East,4464,376,4434.0,0.74
+2026-02-01,Textiles & Fabrics,East,4266,654,3407.0,0.76
+2026-03-01,Textiles & Fabrics,East,3906,590,876.0,0.62
+2026-04-01,Textiles & Fabrics,East,3354,288,4337.0,0.58
+2026-05-01,Textiles & Fabrics,East,3309,452,1483.0,0.6
+2026-06-01,Textiles & Fabrics,East,3597,519,2190.0,0.83
+2026-07-01,Textiles & Fabrics,East,3645,304,2846.0,0.86
+2026-08-01,Textiles & Fabrics,East,3404,320,957.0,0.87
+2026-09-01,Textiles & Fabrics,East,3586,459,4742.0,0.69
+2024-10-01,Textiles & Fabrics,West,1575,172,2885.0,0.82
+2024-11-01,Textiles & Fabrics,West,1463,228,3861.0,0.89
+2024-12-01,Textiles & Fabrics,West,1548,193,1821.0,0.56
+2025-01-01,Textiles & Fabrics,West,1477,155,2639.0,0.67
+2025-02-01,Textiles & Fabrics,West,1458,196,4261.0,0.61
+2025-03-01,Textiles & Fabrics,West,1416,159,3813.0,0.67
+2025-04-01,Textiles & Fabrics,West,1394,184,2624.0,0.64
+2025-05-01,Textiles & Fabrics,West,1183,160,1615.0,0.67
+2025-06-01,Textiles & Fabrics,West,1268,118,2703.0,0.58
+2025-07-01,Textiles & Fabrics,West,1235,169,2129.0,0.9
+2025-08-01,Textiles & Fabrics,West,1270,110,4756.0,0.69
+2025-09-01,Textiles & Fabrics,West,1391,130,1782.0,0.83
+2025-10-01,Textiles & Fabrics,West,1418,148,3621.0,0.72
+2025-11-01,Textiles & Fabrics,West,1456,161,1975.0,0.57
+2025-12-01,Textiles & Fabrics,West,1475,203,4244.0,0.89
+2026-01-01,Textiles & Fabrics,West,1464,126,886.0,0.8
+2026-02-01,Textiles & Fabrics,West,1352,198,3333.0,0.86
+2026-03-01,Textiles & Fabrics,West,1447,165,1938.0,0.59
+2026-04-01,Textiles & Fabrics,West,1432,222,1083.0,0.67
+2026-05-01,Textiles & Fabrics,West,1268,178,800.0,0.73
+2026-06-01,Textiles & Fabrics,West,1237,116,2642.0,0.88
+2026-07-01,Textiles & Fabrics,West,1178,182,1651.0,0.82
+2026-08-01,Textiles & Fabrics,West,1371,196,1747.0,0.75
+2026-09-01,Textiles & Fabrics,West,1408,118,2336.0,0.76
+2024-10-01,Textiles & Fabrics,Central,2822,241,4699.0,0.56
+2024-11-01,Textiles & Fabrics,Central,3077,487,983.0,0.61
+2024-12-01,Textiles & Fabrics,Central,2998,490,1242.0,0.83
+2025-01-01,Textiles & Fabrics,Central,3155,358,1072.0,0.56
+2025-02-01,Textiles & Fabrics,Central,2826,373,3062.0,0.68
+2025-03-01,Textiles & Fabrics,Central,2857,361,1866.0,0.86
+2025-04-01,Textiles & Fabrics,Central,2575,278,2339.0,0.67
+2025-05-01,Textiles & Fabrics,Central,2364,203,4130.0,0.86
+2025-06-01,Textiles & Fabrics,Central,2476,207,1556.0,0.61
+2025-07-01,Textiles & Fabrics,Central,2440,256,959.0,0.88
+2025-08-01,Textiles & Fabrics,Central,2408,237,1823.0,0.75
+2025-09-01,Textiles & Fabrics,Central,2936,323,1968.0,0.55
+2025-10-01,Textiles & Fabrics,Central,2843,300,3121.0,0.71
+2025-11-01,Textiles & Fabrics,Central,2969,333,3164.0,0.89
+2025-12-01,Textiles & Fabrics,Central,3075,472,3888.0,0.63
+2026-01-01,Textiles & Fabrics,Central,3124,414,4357.0,0.73
+2026-02-01,Textiles & Fabrics,Central,2989,256,2474.0,0.72
+2026-03-01,Textiles & Fabrics,Central,2984,330,1802.0,0.62
+2026-04-01,Textiles & Fabrics,Central,2825,261,4703.0,0.87
+2026-05-01,Textiles & Fabrics,Central,2559,249,3932.0,0.83
+2026-06-01,Textiles & Fabrics,Central,2562,327,1353.0,0.87
+2026-07-01,Textiles & Fabrics,Central,2437,302,3850.0,0.76
+2026-08-01,Textiles & Fabrics,Central,2882,292,534.0,0.78
+2026-09-01,Textiles & Fabrics,Central,2805,249,1656.0,0.62
+2024-10-01,Electrical Components,North,3816,372,4399.0,0.81
+2024-11-01,Electrical Components,North,4025,476,2803.0,0.81
+2024-12-01,Electrical Components,North,3912,436,6126.0,0.63
+2025-01-01,Electrical Components,North,3751,331,3464.0,0.89
+2025-02-01,Electrical Components,North,4075,607,1291.0,0.7
+2025-03-01,Electrical Components,North,3822,620,2003.0,0.82
+2025-04-01,Electrical Components,North,3575,565,497.0,0.74
+2025-05-01,Electrical Components,North,3229,367,685.0,0.59
+2025-06-01,Electrical Components,North,3531,552,936.0,0.8
+2025-07-01,Electrical Components,North,3412,372,2138.0,0.88
+2025-08-01,Electrical Components,North,3437,409,2461.0,0.89
+2025-09-01,Electrical Components,North,3847,345,3663.0,0.63
+2025-10-01,Electrical Components,North,4304,374,826.0,0.7
+2025-11-01,Electrical Components,North,4120,421,5400.0,0.87
+2025-12-01,Electrical Components,North,4521,475,2961.0,0.55
+2026-01-01,Electrical Components,North,4075,341,4187.0,0.61
+2026-02-01,Electrical Components,North,4012,421,6192.0,0.64
+2026-03-01,Electrical Components,North,3470,546,711.0,0.89
+2026-04-01,Electrical Components,North,3320,441,6002.0,0.74
+2026-05-01,Electrical Components,North,3606,372,5775.0,0.9
+2026-06-01,Electrical Components,North,3539,473,5439.0,0.63
+2026-07-01,Electrical Components,North,3531,541,3866.0,0.64
+2026-08-01,Electrical Components,North,3626,436,4989.0,0.81
+2026-09-01,Electrical Components,North,3786,506,4979.0,0.9
+2024-10-01,Electrical Components,South,2336,291,468.0,0.84
+2024-11-01,Electrical Components,South,2361,226,5783.0,0.62
+2024-12-01,Electrical Components,South,2194,288,1628.0,0.78
+2025-01-01,Electrical Components,South,2337,321,476.0,0.86
+2025-02-01,Electrical Components,South,2094,201,4252.0,0.74
+2025-03-01,Electrical Components,South,2141,237,5350.0,0.88
+2025-04-01,Electrical Components,South,1816,246,1764.0,0.76
+2025-05-01,Electrical Components,South,2037,233,1664.0,0.65
+2025-06-01,Electrical Components,South,1776,186,4889.0,0.75
+2025-07-01,Electrical Components,South,2001,248,3005.0,0.58
+2025-08-01,Electrical Components,South,2097,268,6323.0,0.81
+2025-09-01,Electrical Components,South,2138,338,1681.0,0.78
+2025-10-01,Electrical Components,South,2332,226,2460.0,0.68
+2025-11-01,Electrical Components,South,2313,229,2886.0,0.6
+2025-12-01,Electrical Components,South,2496,262,5407.0,0.73
+2026-01-01,Electrical Components,South,2538,314,6307.0,0.66
+2026-02-01,Electrical Components,South,2318,258,3385.0,0.87
+2026-03-01,Electrical Components,South,2139,324,632.0,0.71
+2026-04-01,Electrical Components,South,2050,334,2150.0,0.7
+2026-05-01,Electrical Components,South,1927,207,1385.0,0.68
+2026-06-01,Electrical Components,South,2023,294,3956.0,0.73
+2026-07-01,Electrical Components,South,1969,233,5273.0,0.77
+2026-08-01,Electrical Components,South,2211,305,489.0,0.87
+2026-09-01,Electrical Components,South,2121,296,461.0,0.57
+2024-10-01,Electrical Components,East,3338,299,1655.0,0.8
+2024-11-01,Electrical Components,East,3473,308,1699.0,0.72
+2024-12-01,Electrical Components,East,3551,326,3904.0,0.76
+2025-01-01,Electrical Components,East,3293,448,4215.0,0.6
+2025-02-01,Electrical Components,East,3183,368,3033.0,0.84
+2025-03-01,Electrical Components,East,3161,449,2557.0,0.8
+2025-04-01,Electrical Components,East,3328,296,1750.0,0.68
+2025-05-01,Electrical Components,East,3077,489,4692.0,0.57
+2025-06-01,Electrical Components,East,2907,306,927.0,0.57
+2025-07-01,Electrical Components,East,3100,322,5737.0,0.57
+2025-08-01,Electrical Components,East,2763,271,1436.0,0.65
+2025-09-01,Electrical Components,East,3439,433,3261.0,0.65
+2025-10-01,Electrical Components,East,3441,421,1890.0,0.65
+2025-11-01,Electrical Components,East,3348,425,4042.0,0.64
+2025-12-01,Electrical Components,East,3865,438,3539.0,0.66
+2026-01-01,Electrical Components,East,3711,381,4465.0,0.79
+2026-02-01,Electrical Components,East,3506,420,3491.0,0.71
+2026-03-01,Electrical Components,East,3364,313,5927.0,0.63
+2026-04-01,Electrical Components,East,3259,526,5323.0,0.77
+2026-05-01,Electrical Components,East,2945,262,5572.0,0.79
+2026-06-01,Electrical Components,East,3083,353,2822.0,0.74
+2026-07-01,Electrical Components,East,3348,291,5568.0,0.58
+2026-08-01,Electrical Components,East,3314,357,3558.0,0.66
+2026-09-01,Electrical Components,East,3556,297,804.0,0.9
+2024-10-01,Electrical Components,West,971,94,5038.0,0.71
+2024-11-01,Electrical Components,West,1012,105,3757.0,0.57
+2024-12-01,Electrical Components,West,902,86,1849.0,0.72
+2025-01-01,Electrical Components,West,942,86,6535.0,0.87
+2025-02-01,Electrical Components,West,845,81,6127.0,0.76
+2025-03-01,Electrical Components,West,872,123,5918.0,0.73
+2025-04-01,Electrical Components,West,748,104,5324.0,0.63
+2025-05-01,Electrical Components,West,787,75,4817.0,0.83
+2025-06-01,Electrical Components,West,796,70,4374.0,0.89
+2025-07-01,Electrical Components,West,849,81,2334.0,0.59
+2025-08-01,Electrical Components,West,809,72,2236.0,0.86
+2025-09-01,Electrical Components,West,882,89,2934.0,0.78
+2025-10-01,Electrical Components,West,900,118,1584.0,0.58
+2025-11-01,Electrical Components,West,988,119,6197.0,0.78
+2025-12-01,Electrical Components,West,1007,101,4666.0,0.88
+2026-01-01,Electrical Components,West,926,109,4018.0,0.59
+2026-02-01,Electrical Components,West,920,112,4149.0,0.75
+2026-03-01,Electrical Components,West,969,98,4141.0,0.62
+2026-04-01,Electrical Components,West,920,93,4259.0,0.71
+2026-05-01,Electrical Components,West,760,82,6353.0,0.6
+2026-06-01,Electrical Components,West,768,89,2686.0,0.61
+2026-07-01,Electrical Components,West,849,104,751.0,0.65
+2026-08-01,Electrical Components,West,914,122,4388.0,0.6
+2026-09-01,Electrical Components,West,888,110,6528.0,0.83
+2024-10-01,Electrical Components,Central,3172,443,1033.0,0.62
+2024-11-01,Electrical Components,Central,3426,488,3688.0,0.68
+2024-12-01,Electrical Components,Central,3643,402,2763.0,0.72
+2025-01-01,Electrical Components,Central,3705,517,2435.0,0.55
+2025-02-01,Electrical Components,Central,3368,403,3727.0,0.88
+2025-03-01,Electrical Components,Central,3369,328,2663.0,0.8
+2025-04-01,Electrical Components,Central,2783,361,2166.0,0.81
+2025-05-01,Electrical Components,Central,2994,259,1494.0,0.69
+2025-06-01,Electrical Components,Central,3038,455,6473.0,0.81
+2025-07-01,Electrical Components,Central,2998,311,6341.0,0.86
+2025-08-01,Electrical Components,Central,3316,276,5592.0,0.78
+2025-09-01,Electrical Components,Central,3329,395,3867.0,0.6
+2025-10-01,Electrical Components,Central,3405,348,2084.0,0.66
+2025-11-01,Electrical Components,Central,3558,409,5705.0,0.9
+2025-12-01,Electrical Components,Central,3684,362,1520.0,0.85
+2026-01-01,Electrical Components,Central,3802,473,337.0,0.55
+2026-02-01,Electrical Components,Central,3646,476,6546.0,0.77
+2026-03-01,Electrical Components,Central,3684,498,3349.0,0.8
+2026-04-01,Electrical Components,Central,3285,385,2322.0,0.69
+2026-05-01,Electrical Components,Central,3217,366,4628.0,0.6
+2026-06-01,Electrical Components,Central,3226,446,4196.0,0.61
+2026-07-01,Electrical Components,Central,2987,420,4912.0,0.75
+2026-08-01,Electrical Components,Central,3512,553,947.0,0.56
+2026-09-01,Electrical Components,Central,3586,354,3765.0,0.85
+2024-10-01,Food Processing Equipment,North,2391,241,2863.0,0.59
+2024-11-01,Food Processing Equipment,North,2704,388,2171.0,0.58
+2024-12-01,Food Processing Equipment,North,2736,237,2304.0,0.78
+2025-01-01,Food Processing Equipment,North,2566,261,1589.0,0.57
+2025-02-01,Food Processing Equipment,North,2411,278,1834.0,0.7
+2025-03-01,Food Processing Equipment,North,2404,216,2895.0,0.87
+2025-04-01,Food Processing Equipment,North,2221,240,2231.0,0.68
+2025-05-01,Food Processing Equipment,North,2320,223,685.0,0.76
+2025-06-01,Food Processing Equipment,North,2002,170,3997.0,0.88
+2025-07-01,Food Processing Equipment,North,2236,344,922.0,0.8
+2025-08-01,Food Processing Equipment,North,2356,201,2690.0,0.75
+2025-09-01,Food Processing Equipment,North,2153,312,3803.0,0.66
+2025-10-01,Food Processing Equipment,North,2605,251,303.0,0.61
+2025-11-01,Food Processing Equipment,North,2415,361,5034.0,0.81
+2025-12-01,Food Processing Equipment,North,2518,314,1277.0,0.89
+2026-01-01,Food Processing Equipment,North,2472,241,2585.0,0.58
+2026-02-01,Food Processing Equipment,North,2670,334,2460.0,0.87
+2026-03-01,Food Processing Equipment,North,2410,210,1252.0,0.72
+2026-04-01,Food Processing Equipment,North,2262,212,5471.0,0.7
+2026-05-01,Food Processing Equipment,North,2184,308,613.0,0.7
+2026-06-01,Food Processing Equipment,North,2258,207,1577.0,0.85
+2026-07-01,Food Processing Equipment,North,2148,278,1213.0,0.73
+2026-08-01,Food Processing Equipment,North,2368,312,1598.0,0.79
+2026-09-01,Food Processing Equipment,North,2638,359,624.0,0.73
+2024-10-01,Food Processing Equipment,South,1862,207,3775.0,0.68
+2024-11-01,Food Processing Equipment,South,1824,153,3564.0,0.6
+2024-12-01,Food Processing Equipment,South,1983,204,4454.0,0.76
+2025-01-01,Food Processing Equipment,South,2010,238,3796.0,0.68
+2025-02-01,Food Processing Equipment,South,1844,186,2194.0,0.67
+2025-03-01,Food Processing Equipment,South,1760,174,4853.0,0.69
+2025-04-01,Food Processing Equipment,South,1575,199,830.0,0.83
+2025-05-01,Food Processing Equipment,South,1508,182,919.0,0.6
+2025-06-01,Food Processing Equipment,South,1637,251,1664.0,0.82
+2025-07-01,Food Processing Equipment,South,1640,202,2849.0,0.62
+2025-08-01,Food Processing Equipment,South,1604,209,4233.0,0.56
+2025-09-01,Food Processing Equipment,South,1869,234,1322.0,0.59
+2025-10-01,Food Processing Equipment,South,1860,193,367.0,0.71
+2025-11-01,Food Processing Equipment,South,1915,308,2565.0,0.67
+2025-12-01,Food Processing Equipment,South,1928,167,4985.0,0.75
+2026-01-01,Food Processing Equipment,South,2075,317,3302.0,0.58
+2026-02-01,Food Processing Equipment,South,1929,278,5656.0,0.75
+2026-03-01,Food Processing Equipment,South,1812,171,3782.0,0.72
+2026-04-01,Food Processing Equipment,South,1672,240,3155.0,0.69
+2026-05-01,Food Processing Equipment,South,1649,162,3370.0,0.83
+2026-06-01,Food Processing Equipment,South,1493,217,540.0,0.61
+2026-07-01,Food Processing Equipment,South,1622,187,2805.0,0.75
+2026-08-01,Food Processing Equipment,South,1707,213,4864.0,0.83
+2026-09-01,Food Processing Equipment,South,1698,258,5072.0,0.57
+2024-10-01,Food Processing Equipment,East,2078,196,1270.0,0.66
+2024-11-01,Food Processing Equipment,East,2085,333,607.0,0.71
+2024-12-01,Food Processing Equipment,East,2154,229,3205.0,0.72
+2025-01-01,Food Processing Equipment,East,1949,196,3678.0,0.72
+2025-02-01,Food Processing Equipment,East,1972,192,5010.0,0.72
+2025-03-01,Food Processing Equipment,East,1929,235,2600.0,0.87
+2025-04-01,Food Processing Equipment,East,1756,158,5202.0,0.58
+2025-05-01,Food Processing Equipment,East,1828,198,2169.0,0.89
+2025-06-01,Food Processing Equipment,East,1776,165,3023.0,0.88
+2025-07-01,Food Processing Equipment,East,1884,184,1119.0,0.73
+2025-08-01,Food Processing Equipment,East,1918,206,5131.0,0.78
+2025-09-01,Food Processing Equipment,East,1812,279,1497.0,0.59
+2025-10-01,Food Processing Equipment,East,1955,193,3634.0,0.67
+2025-11-01,Food Processing Equipment,East,2027,233,4433.0,0.62
+2025-12-01,Food Processing Equipment,East,2280,316,2334.0,0.71
+2026-01-01,Food Processing Equipment,East,2262,361,2933.0,0.58
+2026-02-01,Food Processing Equipment,East,2257,194,632.0,0.65
+2026-03-01,Food Processing Equipment,East,1983,301,4900.0,0.67
+2026-04-01,Food Processing Equipment,East,1681,192,5179.0,0.58
+2026-05-01,Food Processing Equipment,East,1685,258,2535.0,0.83
+2026-06-01,Food Processing Equipment,East,1684,146,4653.0,0.69
+2026-07-01,Food Processing Equipment,East,1795,211,2515.0,0.69
+2026-08-01,Food Processing Equipment,East,1827,203,4481.0,0.66
+2026-09-01,Food Processing Equipment,East,1833,158,3201.0,0.68
+2024-10-01,Food Processing Equipment,West,2801,313,2330.0,0.64
+2024-11-01,Food Processing Equipment,West,2764,354,907.0,0.56
+2024-12-01,Food Processing Equipment,West,2793,247,2236.0,0.71
+2025-01-01,Food Processing Equipment,West,2758,417,4538.0,0.74
+2025-02-01,Food Processing Equipment,West,2787,265,3010.0,0.83
+2025-03-01,Food Processing Equipment,West,2727,263,3934.0,0.71
+2025-04-01,Food Processing Equipment,West,2551,278,4721.0,0.85
+2025-05-01,Food Processing Equipment,West,2603,268,3525.0,0.87
+2025-06-01,Food Processing Equipment,West,2397,290,5421.0,0.61
+2025-07-01,Food Processing Equipment,West,2302,218,2933.0,0.81
+2025-08-01,Food Processing Equipment,West,2614,432,1501.0,0.81
+2025-09-01,Food Processing Equipment,West,2925,382,723.0,0.8
+2025-10-01,Food Processing Equipment,West,2743,236,3143.0,0.56
+2025-11-01,Food Processing Equipment,West,2916,440,5079.0,0.88
+2025-12-01,Food Processing Equipment,West,2990,391,3925.0,0.59
+2026-01-01,Food Processing Equipment,West,2986,337,2642.0,0.76
+2026-02-01,Food Processing Equipment,West,2920,255,4774.0,0.63
+2026-03-01,Food Processing Equipment,West,2797,283,3568.0,0.67
+2026-04-01,Food Processing Equipment,West,2387,390,777.0,0.62
+2026-05-01,Food Processing Equipment,West,2533,405,1568.0,0.63
+2026-06-01,Food Processing Equipment,West,2550,336,839.0,0.89
+2026-07-01,Food Processing Equipment,West,2628,297,4329.0,0.82
+2026-08-01,Food Processing Equipment,West,2488,271,3871.0,0.66
+2026-09-01,Food Processing Equipment,West,2643,223,1430.0,0.63
+2024-10-01,Food Processing Equipment,Central,1481,134,4880.0,0.84
+2024-11-01,Food Processing Equipment,Central,1327,127,4811.0,0.84
+2024-12-01,Food Processing Equipment,Central,1326,127,2927.0,0.86
+2025-01-01,Food Processing Equipment,Central,1352,134,3886.0,0.79
+2025-02-01,Food Processing Equipment,Central,1403,218,5159.0,0.8
+2025-03-01,Food Processing Equipment,Central,1232,170,2728.0,0.79
+2025-04-01,Food Processing Equipment,Central,1137,188,2439.0,0.64
+2025-05-01,Food Processing Equipment,Central,1133,133,4049.0,0.87
+2025-06-01,Food Processing Equipment,Central,1057,94,3582.0,0.81
+2025-07-01,Food Processing Equipment,Central,1137,141,671.0,0.78
+2025-08-01,Food Processing Equipment,Central,1189,103,3902.0,0.76
+2025-09-01,Food Processing Equipment,Central,1420,130,5646.0,0.71
+2025-10-01,Food Processing Equipment,Central,1315,133,4958.0,0.76
+2025-11-01,Food Processing Equipment,Central,1316,119,3668.0,0.89
+2025-12-01,Food Processing Equipment,Central,1522,143,5650.0,0.71
+2026-01-01,Food Processing Equipment,Central,1374,226,2049.0,0.67
+2026-02-01,Food Processing Equipment,Central,1287,168,4025.0,0.58
+2026-03-01,Food Processing Equipment,Central,1314,194,3523.0,0.7
+2026-04-01,Food Processing Equipment,Central,1162,97,1344.0,0.74
+2026-05-01,Food Processing Equipment,Central,1115,142,5134.0,0.65
+2026-06-01,Food Processing Equipment,Central,1152,151,3181.0,0.57
+2026-07-01,Food Processing Equipment,Central,1124,103,4455.0,0.8
+2026-08-01,Food Processing Equipment,Central,1303,124,584.0,0.6
+2026-09-01,Food Processing Equipment,Central,1408,117,4483.0,0.61
+2024-10-01,Medical Supplies,North,3136,357,2609.0,0.66
+2024-11-01,Medical Supplies,North,3288,380,5235.0,0.81
+2024-12-01,Medical Supplies,North,3271,465,3032.0,0.7
+2025-01-01,Medical Supplies,North,3621,386,1567.0,0.81
+2025-02-01,Medical Supplies,North,3460,424,3908.0,0.83
+2025-03-01,Medical Supplies,North,3181,313,1654.0,0.8
+2025-04-01,Medical Supplies,North,3093,455,5373.0,0.82
+2025-05-01,Medical Supplies,North,2954,329,3001.0,0.64
+2025-06-01,Medical Supplies,North,2609,296,6296.0,0.66
+2025-07-01,Medical Supplies,North,2780,269,5349.0,0.59
+2025-08-01,Medical Supplies,North,3144,281,4434.0,0.65
+2025-09-01,Medical Supplies,North,2998,414,5815.0,0.59
+2025-10-01,Medical Supplies,North,3473,325,3234.0,0.72
+2025-11-01,Medical Supplies,North,3708,463,2648.0,0.9
+2025-12-01,Medical Supplies,North,3395,555,5388.0,0.61
+2026-01-01,Medical Supplies,North,3519,378,5586.0,0.66
+2026-02-01,Medical Supplies,North,3505,399,2443.0,0.77
+2026-03-01,Medical Supplies,North,3139,464,2244.0,0.85
+2026-04-01,Medical Supplies,North,2854,367,3327.0,0.72
+2026-05-01,Medical Supplies,North,2916,325,5223.0,0.85
+2026-06-01,Medical Supplies,North,2767,274,330.0,0.87
+2026-07-01,Medical Supplies,North,3185,507,5989.0,0.63
+2026-08-01,Medical Supplies,North,3092,379,2101.0,0.59
+2026-09-01,Medical Supplies,North,3242,375,1062.0,0.75
+2024-10-01,Medical Supplies,South,1901,206,4593.0,0.88
+2024-11-01,Medical Supplies,South,2022,281,3198.0,0.65
+2024-12-01,Medical Supplies,South,2000,196,2809.0,0.57
+2025-01-01,Medical Supplies,South,2255,203,5589.0,0.69
+2025-02-01,Medical Supplies,South,1829,176,5952.0,0.62
+2025-03-01,Medical Supplies,South,1916,294,5124.0,0.76
+2025-04-01,Medical Supplies,South,1710,173,1134.0,0.6
+2025-05-01,Medical Supplies,South,1745,161,5263.0,0.6
+2025-06-01,Medical Supplies,South,1612,180,485.0,0.85
+2025-07-01,Medical Supplies,South,1823,204,5774.0,0.84
+2025-08-01,Medical Supplies,South,1962,268,2382.0,0.57
+2025-09-01,Medical Supplies,South,1984,166,2048.0,0.7
+2025-10-01,Medical Supplies,South,2257,214,5597.0,0.87
+2025-11-01,Medical Supplies,South,2146,336,4365.0,0.88
+2025-12-01,Medical Supplies,South,2076,220,707.0,0.71
+2026-01-01,Medical Supplies,South,2163,198,4740.0,0.85
+2026-02-01,Medical Supplies,South,2073,327,5038.0,0.75
+2026-03-01,Medical Supplies,South,1892,216,691.0,0.59
+2026-04-01,Medical Supplies,South,1929,282,5266.0,0.76
+2026-05-01,Medical Supplies,South,1753,251,1969.0,0.84
+2026-06-01,Medical Supplies,South,1777,181,603.0,0.62
+2026-07-01,Medical Supplies,South,1852,158,3853.0,0.64
+2026-08-01,Medical Supplies,South,1802,213,5886.0,0.62
+2026-09-01,Medical Supplies,South,1787,289,5147.0,0.85
+2024-10-01,Medical Supplies,East,1500,186,1427.0,0.62
+2024-11-01,Medical Supplies,East,1610,155,3677.0,0.64
+2024-12-01,Medical Supplies,East,1653,152,1581.0,0.74
+2025-01-01,Medical Supplies,East,1622,263,5084.0,0.56
+2025-02-01,Medical Supplies,East,1552,163,1798.0,0.57
+2025-03-01,Medical Supplies,East,1539,135,3113.0,0.62
+2025-04-01,Medical Supplies,East,1223,125,4658.0,0.61
+2025-05-01,Medical Supplies,East,1250,169,4007.0,0.59
+2025-06-01,Medical Supplies,East,1243,104,2664.0,0.61
+2025-07-01,Medical Supplies,East,1378,184,1017.0,0.6
+2025-08-01,Medical Supplies,East,1380,121,5225.0,0.56
+2025-09-01,Medical Supplies,East,1462,152,2068.0,0.75
+2025-10-01,Medical Supplies,East,1440,123,441.0,0.69
+2025-11-01,Medical Supplies,East,1643,139,3975.0,0.79
+2025-12-01,Medical Supplies,East,1728,285,4272.0,0.61
+2026-01-01,Medical Supplies,East,1634,161,5076.0,0.82
+2026-02-01,Medical Supplies,East,1502,166,3457.0,0.73
+2026-03-01,Medical Supplies,East,1446,124,2107.0,0.64
+2026-04-01,Medical Supplies,East,1313,167,4881.0,0.72
+2026-05-01,Medical Supplies,East,1327,163,1191.0,0.73
+2026-06-01,Medical Supplies,East,1289,185,2941.0,0.59
+2026-07-01,Medical Supplies,East,1378,124,1690.0,0.82
+2026-08-01,Medical Supplies,East,1493,135,4336.0,0.68
+2026-09-01,Medical Supplies,East,1516,135,3596.0,0.57
+2024-10-01,Medical Supplies,West,3031,433,3376.0,0.68
+2024-11-01,Medical Supplies,West,3146,445,4578.0,0.61
+2024-12-01,Medical Supplies,West,3329,509,5456.0,0.55
+2025-01-01,Medical Supplies,West,3142,361,4132.0,0.71
+2025-02-01,Medical Supplies,West,2990,345,5521.0,0.59
+2025-03-01,Medical Supplies,West,2782,298,5057.0,0.76
+2025-04-01,Medical Supplies,West,2870,299,1938.0,0.74
+2025-05-01,Medical Supplies,West,2323,234,3233.0,0.65
+2025-06-01,Medical Supplies,West,2409,279,2840.0,0.76
+2025-07-01,Medical Supplies,West,2541,287,5077.0,0.83
+2025-08-01,Medical Supplies,West,2759,297,2320.0,0.64
+2025-09-01,Medical Supplies,West,2878,284,1847.0,0.85
+2025-10-01,Medical Supplies,West,3088,357,2715.0,0.75
+2025-11-01,Medical Supplies,West,3171,338,6001.0,0.81
+2025-12-01,Medical Supplies,West,3388,556,631.0,0.84
+2026-01-01,Medical Supplies,West,2987,423,3279.0,0.85
+2026-02-01,Medical Supplies,West,3020,497,635.0,0.66
+2026-03-01,Medical Supplies,West,3082,311,5430.0,0.76
+2026-04-01,Medical Supplies,West,2677,359,2543.0,0.72
+2026-05-01,Medical Supplies,West,2848,320,1513.0,0.72
+2026-06-01,Medical Supplies,West,2485,260,863.0,0.63
+2026-07-01,Medical Supplies,West,2567,253,1676.0,0.79
+2026-08-01,Medical Supplies,West,2857,238,2310.0,0.9
+2026-09-01,Medical Supplies,West,2902,410,823.0,0.78
+2024-10-01,Medical Supplies,Central,1258,200,491.0,0.86
+2024-11-01,Medical Supplies,Central,1383,173,3081.0,0.85
+2024-12-01,Medical Supplies,Central,1322,128,1504.0,0.81
+2025-01-01,Medical Supplies,Central,1369,223,5181.0,0.85
+2025-02-01,Medical Supplies,Central,1301,133,1829.0,0.55
+2025-03-01,Medical Supplies,Central,1332,128,4376.0,0.64
+2025-04-01,Medical Supplies,Central,1320,174,2740.0,0.82
+2025-05-01,Medical Supplies,Central,1115,173,5327.0,0.85
+2025-06-01,Medical Supplies,Central,1079,100,2111.0,0.84
+2025-07-01,Medical Supplies,Central,1126,99,420.0,0.66
+2025-08-01,Medical Supplies,Central,1210,130,3429.0,0.68
+2025-09-01,Medical Supplies,Central,1280,132,4837.0,0.7
+2025-10-01,Medical Supplies,Central,1262,155,3746.0,0.87
+2025-11-01,Medical Supplies,Central,1446,137,1132.0,0.75
+2025-12-01,Medical Supplies,Central,1455,137,3282.0,0.61
+2026-01-01,Medical Supplies,Central,1389,159,433.0,0.73
+2026-02-01,Medical Supplies,Central,1298,212,3725.0,0.61
+2026-03-01,Medical Supplies,Central,1222,115,2035.0,0.83
+2026-04-01,Medical Supplies,Central,1188,121,3778.0,0.72
+2026-05-01,Medical Supplies,Central,1203,146,1511.0,0.58
+2026-06-01,Medical Supplies,Central,1198,104,3474.0,0.75
+2026-07-01,Medical Supplies,Central,1096,111,1218.0,0.7
+2026-08-01,Medical Supplies,Central,1254,178,5714.0,0.55
+2026-09-01,Medical Supplies,Central,1226,135,714.0,0.75
+2024-10-01,Construction Materials,North,3935,346,3629.0,0.69
+2024-11-01,Construction Materials,North,4349,564,1487.0,0.64
+2024-12-01,Construction Materials,North,4544,529,1902.0,0.83
+2025-01-01,Construction Materials,North,4313,402,728.0,0.9
+2025-02-01,Construction Materials,North,4422,410,4031.0,0.6
+2025-03-01,Construction Materials,North,3658,371,3282.0,0.77
+2025-04-01,Construction Materials,North,3752,328,4608.0,0.63
+2025-05-01,Construction Materials,North,3707,371,5604.0,0.71
+2025-06-01,Construction Materials,North,3728,387,4046.0,0.76
+2025-07-01,Construction Materials,North,3478,542,3552.0,0.88
+2025-08-01,Construction Materials,North,3857,604,5245.0,0.68
+2025-09-01,Construction Materials,North,4234,525,1608.0,0.85
+2025-10-01,Construction Materials,North,4002,417,1823.0,0.75
+2025-11-01,Construction Materials,North,4043,434,2686.0,0.81
+2025-12-01,Construction Materials,North,4379,445,2891.0,0.8
+2026-01-01,Construction Materials,North,4111,498,2163.0,0.79
+2026-02-01,Construction Materials,North,4174,407,1414.0,0.7
+2026-03-01,Construction Materials,North,3841,576,2017.0,0.68
+2026-04-01,Construction Materials,North,3798,509,1199.0,0.78
+2026-05-01,Construction Materials,North,3826,504,1306.0,0.87
+2026-06-01,Construction Materials,North,3379,376,1839.0,0.68
+2026-07-01,Construction Materials,North,3441,393,458.0,0.75
+2026-08-01,Construction Materials,North,3685,311,3084.0,0.83
+2026-09-01,Construction Materials,North,3941,624,761.0,0.88
+2024-10-01,Construction Materials,South,2201,259,5748.0,0.71
+2024-11-01,Construction Materials,South,2230,189,2286.0,0.63
+2024-12-01,Construction Materials,South,2424,208,754.0,0.67
+2025-01-01,Construction Materials,South,2307,227,4145.0,0.58
+2025-02-01,Construction Materials,South,2230,285,1339.0,0.65
+2025-03-01,Construction Materials,South,2079,227,4620.0,0.61
+2025-04-01,Construction Materials,South,2173,335,1098.0,0.72
+2025-05-01,Construction Materials,South,2024,223,3283.0,0.68
+2025-06-01,Construction Materials,South,1997,239,5014.0,0.59
+2025-07-01,Construction Materials,South,1918,276,723.0,0.88
+2025-08-01,Construction Materials,South,2265,244,4477.0,0.76
+2025-09-01,Construction Materials,South,2039,206,2826.0,0.79
+2025-10-01,Construction Materials,South,2101,314,4649.0,0.72
+2025-11-01,Construction Materials,South,2436,266,1956.0,0.69
+2025-12-01,Construction Materials,South,2238,359,5782.0,0.86
+2026-01-01,Construction Materials,South,2534,274,4185.0,0.59
+2026-02-01,Construction Materials,South,2353,278,4021.0,0.67
+2026-03-01,Construction Materials,South,2050,229,2739.0,0.73
+2026-04-01,Construction Materials,South,2083,202,1247.0,0.72
+2026-05-01,Construction Materials,South,1948,187,4694.0,0.89
+2026-06-01,Construction Materials,South,1896,180,445.0,0.71
+2026-07-01,Construction Materials,South,1950,187,5208.0,0.73
+2026-08-01,Construction Materials,South,1976,198,5599.0,0.77
+2026-09-01,Construction Materials,South,2190,258,1320.0,0.62
+2024-10-01,Construction Materials,East,2817,290,5035.0,0.78
+2024-11-01,Construction Materials,East,3264,460,3197.0,0.71
+2024-12-01,Construction Materials,East,3071,431,1255.0,0.56
+2025-01-01,Construction Materials,East,3206,426,5725.0,0.7
+2025-02-01,Construction Materials,East,3238,327,2955.0,0.81
+2025-03-01,Construction Materials,East,2720,423,4473.0,0.81
+2025-04-01,Construction Materials,East,2536,242,1299.0,0.83
+2025-05-01,Construction Materials,East,2614,405,2380.0,0.81
+2025-06-01,Construction Materials,East,2402,283,5160.0,0.77
+2025-07-01,Construction Materials,East,2403,218,5103.0,0.8
+2025-08-01,Construction Materials,East,2729,450,1282.0,0.66
+2025-09-01,Construction Materials,East,2848,408,4484.0,0.82
+2025-10-01,Construction Materials,East,2820,253,5831.0,0.87
+2025-11-01,Construction Materials,East,3033,290,4002.0,0.84
+2025-12-01,Construction Materials,East,3258,274,2932.0,0.71
+2026-01-01,Construction Materials,East,3332,349,5663.0,0.65
+2026-02-01,Construction Materials,East,3137,388,463.0,0.76
+2026-03-01,Construction Materials,East,3085,329,4427.0,0.82
+2026-04-01,Construction Materials,East,2945,341,1532.0,0.65
+2026-05-01,Construction Materials,East,2756,295,2127.0,0.57
+2026-06-01,Construction Materials,East,2699,244,4782.0,0.57
+2026-07-01,Construction Materials,East,2599,333,4996.0,0.62
+2026-08-01,Construction Materials,East,2635,418,463.0,0.76
+2026-09-01,Construction Materials,East,3010,468,3496.0,0.73
+2024-10-01,Construction Materials,West,2094,222,1798.0,0.72
+2024-11-01,Construction Materials,West,2451,342,2778.0,0.68
+2024-12-01,Construction Materials,West,2415,267,2446.0,0.77
+2025-01-01,Construction Materials,West,2343,300,2119.0,0.55
+2025-02-01,Construction Materials,West,2107,178,5536.0,0.79
+2025-03-01,Construction Materials,West,2034,221,5127.0,0.72
+2025-04-01,Construction Materials,West,2114,283,2470.0,0.66
+2025-05-01,Construction Materials,West,1833,233,3482.0,0.62
+2025-06-01,Construction Materials,West,1944,249,626.0,0.65
+2025-07-01,Construction Materials,West,2068,314,3820.0,0.77
+2025-08-01,Construction Materials,West,1997,284,3891.0,0.82
+2025-09-01,Construction Materials,West,1986,294,713.0,0.63
+2025-10-01,Construction Materials,West,2319,242,3640.0,0.69
+2025-11-01,Construction Materials,West,2367,244,2580.0,0.59
+2025-12-01,Construction Materials,West,2317,271,1648.0,0.75
+2026-01-01,Construction Materials,West,2233,208,3484.0,0.88
+2026-02-01,Construction Materials,West,2317,221,786.0,0.77
+2026-03-01,Construction Materials,West,2251,260,2502.0,0.6
+2026-04-01,Construction Materials,West,1905,241,2569.0,0.8
+2026-05-01,Construction Materials,West,1889,177,2538.0,0.87
+2026-06-01,Construction Materials,West,1892,275,2578.0,0.89
+2026-07-01,Construction Materials,West,1908,222,4270.0,0.88
+2026-08-01,Construction Materials,West,1937,200,3055.0,0.87
+2026-09-01,Construction Materials,West,2102,222,309.0,0.62
+2024-10-01,Construction Materials,Central,3349,298,4895.0,0.85
+2024-11-01,Construction Materials,Central,3424,356,3811.0,0.77
+2024-12-01,Construction Materials,Central,3516,473,782.0,0.57
+2025-01-01,Construction Materials,Central,3387,300,5766.0,0.6
+2025-02-01,Construction Materials,Central,3362,557,2485.0,0.68
+2025-03-01,Construction Materials,Central,3159,423,399.0,0.71
+2025-04-01,Construction Materials,Central,2986,258,5349.0,0.72
+2025-05-01,Construction Materials,Central,2848,270,4734.0,0.67
+2025-06-01,Construction Materials,Central,2850,404,2689.0,0.59
+2025-07-01,Construction Materials,Central,2900,322,4910.0,0.76
+2025-08-01,Construction Materials,Central,3357,330,4523.0,0.79
+2025-09-01,Construction Materials,Central,3513,352,3435.0,0.74
+2025-10-01,Construction Materials,Central,3541,495,3156.0,0.66
+2025-11-01,Construction Materials,Central,3774,627,1491.0,0.77
+2025-12-01,Construction Materials,Central,3823,433,935.0,0.79
+2026-01-01,Construction Materials,Central,3360,346,3797.0,0.76
+2026-02-01,Construction Materials,Central,3555,297,5271.0,0.7
+2026-03-01,Construction Materials,Central,3311,305,5988.0,0.57
+2026-04-01,Construction Materials,Central,3149,288,5567.0,0.63
+2026-05-01,Construction Materials,Central,3186,308,3645.0,0.86
+2026-06-01,Construction Materials,Central,2825,239,1961.0,0.77
+2026-07-01,Construction Materials,Central,2990,381,5461.0,0.83
+2026-08-01,Construction Materials,Central,3161,323,4515.0,0.88
+2026-09-01,Construction Materials,Central,3361,508,1287.0,0.64
+2024-10-01,Auto Components,North,3291,517,2252.0,0.71
+2024-11-01,Auto Components,North,3565,574,1672.0,0.58
+2024-12-01,Auto Components,North,3311,315,3002.0,0.76
+2025-01-01,Auto Components,North,3216,280,2874.0,0.73
+2025-02-01,Auto Components,North,3436,308,3066.0,0.9
+2025-03-01,Auto Components,North,3201,411,3026.0,0.76
+2025-04-01,Auto Components,North,3039,300,4773.0,0.57
+2025-05-01,Auto Components,North,3078,325,3273.0,0.55
+2025-06-01,Auto Components,North,2938,305,5382.0,0.73
+2025-07-01,Auto Components,North,2739,260,4647.0,0.84
+2025-08-01,Auto Components,North,2932,397,1356.0,0.9
+2025-09-01,Auto Components,North,3092,279,3586.0,0.7
+2025-10-01,Auto Components,North,3184,432,2697.0,0.59
+2025-11-01,Auto Components,North,3760,314,2340.0,0.58
+2025-12-01,Auto Components,North,3322,291,2964.0,0.71
+2026-01-01,Auto Components,North,3367,318,2850.0,0.63
+2026-02-01,Auto Components,North,3055,494,2062.0,0.72
+2026-03-01,Auto Components,North,3175,433,1377.0,0.85
+2026-04-01,Auto Components,North,2868,381,3969.0,0.62
+2026-05-01,Auto Components,North,2752,446,2034.0,0.68
+2026-06-01,Auto Components,North,2951,292,4164.0,0.6
+2026-07-01,Auto Components,North,2744,441,307.0,0.75
+2026-08-01,Auto Components,North,2809,248,663.0,0.57
+2026-09-01,Auto Components,North,3185,400,1919.0,0.76
+2024-10-01,Auto Components,South,897,113,1167.0,0.85
+2024-11-01,Auto Components,South,910,124,1533.0,0.9
+2024-12-01,Auto Components,South,990,121,5284.0,0.89
+2025-01-01,Auto Components,South,905,143,3064.0,0.72
+2025-02-01,Auto Components,South,939,86,1512.0,0.89
+2025-03-01,Auto Components,South,795,109,5188.0,0.83
+2025-04-01,Auto Components,South,808,131,5076.0,0.65
+2025-05-01,Auto Components,South,765,85,2970.0,0.87
+2025-06-01,Auto Components,South,751,67,1168.0,0.67
+2025-07-01,Auto Components,South,715,85,281.0,0.89
+2025-08-01,Auto Components,South,836,131,1620.0,0.82
+2025-09-01,Auto Components,South,791,92,3236.0,0.59
+2025-10-01,Auto Components,South,908,86,2359.0,0.9
+2025-11-01,Auto Components,South,969,149,4965.0,0.74
+2025-12-01,Auto Components,South,1004,88,937.0,0.86
+2026-01-01,Auto Components,South,905,84,3965.0,0.75
+2026-02-01,Auto Components,South,904,82,4285.0,0.88
+2026-03-01,Auto Components,South,920,89,1386.0,0.56
+2026-04-01,Auto Components,South,816,79,1976.0,0.7
+2026-05-01,Auto Components,South,722,69,3898.0,0.71
+2026-06-01,Auto Components,South,786,69,1267.0,0.69
+2026-07-01,Auto Components,South,767,72,5356.0,0.87
+2026-08-01,Auto Components,South,904,86,4052.0,0.58
+2026-09-01,Auto Components,South,855,128,4895.0,0.68
+2024-10-01,Auto Components,East,1839,254,2096.0,0.58
+2024-11-01,Auto Components,East,2040,235,677.0,0.67
+2024-12-01,Auto Components,East,1916,256,1617.0,0.75
+2025-01-01,Auto Components,East,1952,181,4418.0,0.58
+2025-02-01,Auto Components,East,1873,166,1701.0,0.57
+2025-03-01,Auto Components,East,1762,235,3977.0,0.73
+2025-04-01,Auto Components,East,1671,201,4107.0,0.78
+2025-05-01,Auto Components,East,1742,152,4527.0,0.74
+2025-06-01,Auto Components,East,1720,260,4926.0,0.79
+2025-07-01,Auto Components,East,1566,161,4031.0,0.79
+2025-08-01,Auto Components,East,1617,193,3317.0,0.67
+2025-09-01,Auto Components,East,1982,168,593.0,0.76
+2025-10-01,Auto Components,East,1946,257,3636.0,0.58
+2025-11-01,Auto Components,East,1905,274,4262.0,0.78
+2025-12-01,Auto Components,East,2146,311,4747.0,0.63
+2026-01-01,Auto Components,East,2148,351,3864.0,0.56
+2026-02-01,Auto Components,East,2044,218,3936.0,0.84
+2026-03-01,Auto Components,East,1909,231,1563.0,0.84
+2026-04-01,Auto Components,East,1724,216,2797.0,0.86
+2026-05-01,Auto Components,East,1742,181,1276.0,0.69
+2026-06-01,Auto Components,East,1503,139,4401.0,0.84
+2026-07-01,Auto Components,East,1519,146,669.0,0.74
+2026-08-01,Auto Components,East,1522,206,3558.0,0.82
+2026-09-01,Auto Components,East,1701,227,4084.0,0.71
+2024-10-01,Auto Components,West,2808,253,1899.0,0.81
+2024-11-01,Auto Components,West,2853,241,4180.0,0.83
+2024-12-01,Auto Components,West,2672,283,5039.0,0.75
+2025-01-01,Auto Components,West,2687,239,3907.0,0.72
+2025-02-01,Auto Components,West,2539,345,3869.0,0.85
+2025-03-01,Auto Components,West,2720,316,4620.0,0.55
+2025-04-01,Auto Components,West,2266,310,3644.0,0.83
+2025-05-01,Auto Components,West,2278,340,1741.0,0.69
+2025-06-01,Auto Components,West,2215,185,4746.0,0.74
+2025-07-01,Auto Components,West,2309,253,3755.0,0.85
+2025-08-01,Auto Components,West,2251,364,3897.0,0.84
+2025-09-01,Auto Components,West,2448,232,1113.0,0.6
+2025-10-01,Auto Components,West,2653,381,4928.0,0.63
+2025-11-01,Auto Components,West,2886,429,3865.0,0.74
+2025-12-01,Auto Components,West,2681,316,1466.0,0.85
+2026-01-01,Auto Components,West,2868,462,4829.0,0.56
+2026-02-01,Auto Components,West,2688,339,3302.0,0.69
+2026-03-01,Auto Components,West,2689,300,4383.0,0.56
+2026-04-01,Auto Components,West,2301,211,389.0,0.56
+2026-05-01,Auto Components,West,2175,196,4676.0,0.63
+2026-06-01,Auto Components,West,2112,199,3654.0,0.57
+2026-07-01,Auto Components,West,2158,246,3119.0,0.79
+2026-08-01,Auto Components,West,2274,207,3763.0,0.62
+2026-09-01,Auto Components,West,2261,193,2256.0,0.86
+2024-10-01,Auto Components,Central,2814,268,2845.0,0.88
+2024-11-01,Auto Components,Central,2992,296,3501.0,0.61
+2024-12-01,Auto Components,Central,2954,293,4242.0,0.62
+2025-01-01,Auto Components,Central,2863,243,2786.0,0.71
+2025-02-01,Auto Components,Central,2801,251,2851.0,0.59
+2025-03-01,Auto Components,Central,2559,304,2583.0,0.72
+2025-04-01,Auto Components,Central,2416,345,1187.0,0.79
+2025-05-01,Auto Components,Central,2366,264,2372.0,0.79
+2025-06-01,Auto Components,Central,2205,245,1553.0,0.75
+2025-07-01,Auto Components,Central,2476,210,4077.0,0.77
+2025-08-01,Auto Components,Central,2376,228,1280.0,0.68
+2025-09-01,Auto Components,Central,2610,233,3072.0,0.89
+2025-10-01,Auto Components,Central,2674,336,3219.0,0.78
+2025-11-01,Auto Components,Central,3154,364,2170.0,0.81
+2025-12-01,Auto Components,Central,2909,252,1428.0,0.58
+2026-01-01,Auto Components,Central,3133,281,4458.0,0.76
+2026-02-01,Auto Components,Central,2768,396,2542.0,0.84
+2026-03-01,Auto Components,Central,2860,264,3058.0,0.76
+2026-04-01,Auto Components,Central,2705,245,1185.0,0.87
+2026-05-01,Auto Components,Central,2344,223,2432.0,0.79
+2026-06-01,Auto Components,Central,2414,209,4838.0,0.72
+2026-07-01,Auto Components,Central,2468,246,758.0,0.73
+2026-08-01,Auto Components,Central,2523,360,1799.0,0.64
+2026-09-01,Auto Components,Central,2645,236,3559.0,0.78
+2024-10-01,Chemicals,North,3942,368,677.0,0.55
+2024-11-01,Chemicals,North,4068,390,3391.0,0.73
+2024-12-01,Chemicals,North,4490,520,1666.0,0.58
+2025-01-01,Chemicals,North,4110,350,1116.0,0.72
+2025-02-01,Chemicals,North,3902,412,2694.0,0.66
+2025-03-01,Chemicals,North,4028,625,504.0,0.58
+2025-04-01,Chemicals,North,3637,391,5009.0,0.73
+2025-05-01,Chemicals,North,3530,325,2930.0,0.61
+2025-06-01,Chemicals,North,3604,358,1563.0,0.57
+2025-07-01,Chemicals,North,3447,335,3022.0,0.57
+2025-08-01,Chemicals,North,3446,313,3335.0,0.82
+2025-09-01,Chemicals,North,4060,487,1320.0,0.67
+2025-10-01,Chemicals,North,4134,373,1241.0,0.55
+2025-11-01,Chemicals,North,4106,506,830.0,0.87
+2025-12-01,Chemicals,North,4126,621,3387.0,0.88
+2026-01-01,Chemicals,North,4555,397,1097.0,0.78
+2026-02-01,Chemicals,North,4400,692,5099.0,0.57
+2026-03-01,Chemicals,North,4332,453,2599.0,0.87
+2026-04-01,Chemicals,North,3792,614,1559.0,0.76
+2026-05-01,Chemicals,North,3430,414,2752.0,0.85
+2026-06-01,Chemicals,North,3245,306,1595.0,0.6
+2026-07-01,Chemicals,North,3546,342,2000.0,0.71
+2026-08-01,Chemicals,North,3712,498,2883.0,0.64
+2026-09-01,Chemicals,North,4366,379,2309.0,0.59
+2024-10-01,Chemicals,South,4269,556,1216.0,0.63
+2024-11-01,Chemicals,South,4162,461,3961.0,0.89
+2024-12-01,Chemicals,South,4182,459,288.0,0.77
+2025-01-01,Chemicals,South,4378,459,2110.0,0.9
+2025-02-01,Chemicals,South,3887,585,1420.0,0.81
+2025-03-01,Chemicals,South,3682,325,1045.0,0.63
+2025-04-01,Chemicals,South,3625,337,1751.0,0.87
+2025-05-01,Chemicals,South,3526,373,1280.0,0.75
+2025-06-01,Chemicals,South,3202,401,1748.0,0.64
+2025-07-01,Chemicals,South,3600,528,3669.0,0.86
+2025-08-01,Chemicals,South,3239,337,4523.0,0.74
+2025-09-01,Chemicals,South,3800,404,4675.0,0.76
+2025-10-01,Chemicals,South,4153,367,3981.0,0.73
+2025-11-01,Chemicals,South,4081,343,3354.0,0.57
+2025-12-01,Chemicals,South,4278,445,1628.0,0.87
+2026-01-01,Chemicals,South,4465,590,4555.0,0.74
+2026-02-01,Chemicals,South,4044,347,2981.0,0.74
+2026-03-01,Chemicals,South,3909,512,2410.0,0.64
+2026-04-01,Chemicals,South,3751,608,3472.0,0.58
+2026-05-01,Chemicals,South,3313,434,2918.0,0.65
+2026-06-01,Chemicals,South,3311,287,457.0,0.57
+2026-07-01,Chemicals,South,3658,482,3369.0,0.68
+2026-08-01,Chemicals,South,3507,379,3398.0,0.85
+2026-09-01,Chemicals,South,3773,401,4490.0,0.72
+2024-10-01,Chemicals,East,3058,258,3063.0,0.74
+2024-11-01,Chemicals,East,3348,367,3443.0,0.64
+2024-12-01,Chemicals,East,3081,298,4247.0,0.81
+2025-01-01,Chemicals,East,3271,492,1812.0,0.87
+2025-02-01,Chemicals,East,3416,316,969.0,0.62
+2025-03-01,Chemicals,East,2946,476,2821.0,0.62
+2025-04-01,Chemicals,East,2702,444,2171.0,0.55
+2025-05-01,Chemicals,East,2747,266,266.0,0.88
+2025-06-01,Chemicals,East,2670,252,2963.0,0.59
+2025-07-01,Chemicals,East,2698,400,2078.0,0.88
+2025-08-01,Chemicals,East,2612,263,1948.0,0.83
+2025-09-01,Chemicals,East,3035,277,1118.0,0.74
+2025-10-01,Chemicals,East,2946,256,1912.0,0.76
+2025-11-01,Chemicals,East,3352,282,3569.0,0.6
+2025-12-01,Chemicals,East,3295,372,1313.0,0.6
+2026-01-01,Chemicals,East,3240,309,3836.0,0.69
+2026-02-01,Chemicals,East,3041,306,2342.0,0.82
+2026-03-01,Chemicals,East,2989,460,444.0,0.63
+2026-04-01,Chemicals,East,2920,352,4529.0,0.56
+2026-05-01,Chemicals,East,2456,223,1990.0,0.64
+2026-06-01,Chemicals,East,2551,418,888.0,0.79
+2026-07-01,Chemicals,East,2876,382,3982.0,0.67
+2026-08-01,Chemicals,East,2691,317,4684.0,0.64
+2026-09-01,Chemicals,East,3089,354,4194.0,0.74
+2024-10-01,Chemicals,West,2249,207,1060.0,0.72
+2024-11-01,Chemicals,West,2538,212,1744.0,0.69
+2024-12-01,Chemicals,West,2580,380,2335.0,0.79
+2025-01-01,Chemicals,West,2365,382,1820.0,0.66
+2025-02-01,Chemicals,West,2431,255,4661.0,0.59
+2025-03-01,Chemicals,West,2121,223,4294.0,0.75
+2025-04-01,Chemicals,West,2131,207,4592.0,0.82
+2025-05-01,Chemicals,West,1835,159,814.0,0.6
+2025-06-01,Chemicals,West,1876,270,4854.0,0.83
+2025-07-01,Chemicals,West,2193,223,5005.0,0.73
+2025-08-01,Chemicals,West,2057,202,1445.0,0.64
+2025-09-01,Chemicals,West,2088,188,2079.0,0.57
+2025-10-01,Chemicals,West,2288,310,4105.0,0.85
+2025-11-01,Chemicals,West,2465,218,4306.0,0.8
+2025-12-01,Chemicals,West,2601,312,4475.0,0.81
+2026-01-01,Chemicals,West,2554,258,832.0,0.64
+2026-02-01,Chemicals,West,2455,388,4619.0,0.81
+2026-03-01,Chemicals,West,2463,321,555.0,0.63
+2026-04-01,Chemicals,West,2043,195,4525.0,0.73
+2026-05-01,Chemicals,West,2075,185,3635.0,0.82
+2026-06-01,Chemicals,West,2033,291,3163.0,0.85
+2026-07-01,Chemicals,West,1886,191,1629.0,0.73
+2026-08-01,Chemicals,West,2283,249,3471.0,0.81
+2026-09-01,Chemicals,West,2368,353,2984.0,0.69
+2024-10-01,Chemicals,Central,3372,360,2919.0,0.85
+2024-11-01,Chemicals,Central,3462,338,2802.0,0.69
+2024-12-01,Chemicals,Central,3806,318,3764.0,0.75
+2025-01-01,Chemicals,Central,3539,443,674.0,0.68
+2025-02-01,Chemicals,Central,3445,537,895.0,0.88
+2025-03-01,Chemicals,Central,3110,357,2014.0,0.72
+2025-04-01,Chemicals,Central,3283,283,3299.0,0.89
+2025-05-01,Chemicals,Central,2879,315,3602.0,0.68
+2025-06-01,Chemicals,Central,2872,263,3524.0,0.56
+2025-07-01,Chemicals,Central,2790,306,1114.0,0.66
+2025-08-01,Chemicals,Central,3007,292,4540.0,0.73
+2025-09-01,Chemicals,Central,2870,440,875.0,0.61
+2025-10-01,Chemicals,Central,3192,287,1997.0,0.72
+2025-11-01,Chemicals,Central,3456,383,454.0,0.72
+2025-12-01,Chemicals,Central,3634,465,3324.0,0.73
+2026-01-01,Chemicals,Central,3653,355,4569.0,0.89
+2026-02-01,Chemicals,Central,3418,338,4130.0,0.62
+2026-03-01,Chemicals,Central,3529,409,355.0,0.81
+2026-04-01,Chemicals,Central,3089,267,1174.0,0.84
+2026-05-01,Chemicals,Central,3088,372,2979.0,0.79
+2026-06-01,Chemicals,Central,2743,273,1060.0,0.64
+2026-07-01,Chemicals,Central,2821,332,807.0,0.75
+2026-08-01,Chemicals,Central,2887,243,2413.0,0.73
+2026-09-01,Chemicals,Central,2957,445,3258.0,0.6

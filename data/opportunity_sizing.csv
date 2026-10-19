@@ -1,0 +1,5 @@
+stream,target_buyer_types,potential_buyers_assumed (SAM count),achievable_share_y3 (SOM %),arpa_usd,tam_usd (count x arpa),sam_usd_same_as_tam_here,som_usd_y3,assumption_note
+Insights reports,"Market research, consultancies, investors, large suppliers",3000,0.1,6000,18000000,18000000,1800000,Count of plausible buyers is an assumption to be validated in discovery
+Data API,"Analytics firms, fintech/lenders, SaaS vendors",1500,0.15,12000,18000000,18000000,2700000,Needs sandbox + documentation
+Audience segments,"Advertisers, agencies, adtech/martech",800,0.12,30000,24000000,24000000,2880000,Requires consented segments and activation partner
+Data licensing,"Enterprise buyers, data marketplaces, AI/analytics firms",150,0.2,80000,12000000,12000000,2400000,Aggregated datasets only; legal gating

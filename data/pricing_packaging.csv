@@ -1,0 +1,8 @@
+package,stream,includes,billing,indicative_price_usd (annual equivalent or fee),sales_motion
+Insights Basic,Insights reports,"Monthly category demand report, 3 categories, 12-month history",Annual subscription,3000,Self-serve checkout
+Insights Pro,Insights reports,"All categories, regional cuts, 24-month history, quarterly analyst call",Annual subscription,9000,Sales-assisted
+API Starter,Data API,"10k calls/month, 12-month history, aggregate endpoints",Monthly,500,"Self-serve, API key"
+API Growth,Data API,"100k calls/month, 24-month history, regional cuts, SLA 99.5%",Monthly,1500,Sales-assisted
+Audience Pilot,Audience segments,"1 segment, 1 activation partner, 90 days",Fixed fee pilot,15000,"Direct, with success metrics"
+Audience Scale,Audience segments,"Multi-segment, refreshed weekly, clean-room option",CPM / revenue share,30000,Partner-led
+Data License,Data licensing,"Aggregated dataset, defined purpose, annual refresh, audit rights",Annual contract,80000,"Enterprise sales, legal sign-off"
