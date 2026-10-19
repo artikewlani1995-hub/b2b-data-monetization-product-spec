@@ -1,0 +1,116 @@
+{
+  "version": "1.0",
+  "note": "Synthetic spec for a case study",
+  "common_properties": {
+    "account_id": "string",
+    "user_id": "string",
+    "timestamp": "iso8601",
+    "plan": "string"
+  },
+  "events": [
+    {
+      "event": "report_viewed",
+      "trigger": "Customer opens a Category Demand report",
+      "properties": {
+        "report_id": "string",
+        "category": "string",
+        "region": "string"
+      }
+    },
+    {
+      "event": "report_exported",
+      "trigger": "Customer exports CSV/PDF",
+      "properties": {
+        "report_id": "string",
+        "format": "enum[csv,pdf]"
+      }
+    },
+    {
+      "event": "api_key_created",
+      "trigger": "Customer generates an API key",
+      "properties": {
+        "key_id": "string",
+        "tier": "string"
+      }
+    },
+    {
+      "event": "api_request",
+      "trigger": "Each API call (server-side)",
+      "properties": {
+        "endpoint": "string",
+        "status": "integer",
+        "latency_ms": "integer",
+        "rows_returned": "integer"
+      }
+    },
+    {
+      "event": "api_quota_warning",
+      "trigger": "Usage reaches 80% of plan",
+      "properties": {
+        "tier": "string",
+        "pct_used": "number"
+      }
+    },
+    {
+      "event": "query_suppressed_k_anon",
+      "trigger": "Privacy guardrail blocks a small cell",
+      "properties": {
+        "endpoint": "string",
+        "k_threshold": "integer",
+        "observed_k": "integer"
+      }
+    },
+    {
+      "event": "segment_created",
+      "trigger": "Analyst defines an audience segment",
+      "properties": {
+        "segment_id": "string",
+        "rule_version": "string",
+        "est_size": "integer"
+      }
+    },
+    {
+      "event": "segment_activated",
+      "trigger": "Segment sent to an activation partner",
+      "properties": {
+        "segment_id": "string",
+        "partner_label": "string",
+        "consent_filter_applied": "boolean"
+      }
+    },
+    {
+      "event": "consent_check_failed",
+      "trigger": "Record excluded because consent missing",
+      "properties": {
+        "segment_id": "string",
+        "count_excluded": "integer"
+      }
+    },
+    {
+      "event": "pilot_started",
+      "trigger": "Pilot contract begins",
+      "properties": {
+        "partner_label": "string",
+        "stream": "string",
+        "success_metric": "string"
+      }
+    },
+    {
+      "event": "upgrade_clicked",
+      "trigger": "Customer clicks upgrade",
+      "properties": {
+        "from_plan": "string",
+        "to_plan": "string"
+      }
+    },
+    {
+      "event": "partner_data_request_logged",
+      "trigger": "Governance log: external data request approved or denied",
+      "properties": {
+        "request_id": "string",
+        "decision": "enum[approved,denied]",
+        "reviewer": "string"
+      }
+    }
+  ]
+}

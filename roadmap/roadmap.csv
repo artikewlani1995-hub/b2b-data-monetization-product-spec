@@ -1,0 +1,14 @@
+lane,item,start,end
+Discovery,15 interviews + landscape scan,0,3
+Discovery,Concierge reports (5 design partners),2,6
+Discovery,Privacy + legal review of data flows,1,5
+V1 Reports,Aggregation pipeline + quality checks,4,9
+V1 Reports,Dashboard + export + methodology,6,12
+V1 Reports,3 paid pilots + pricing test,6,14
+Governance,Release process dry run + audit log,8,12
+V1.5 API,"Endpoints, keys, quotas, sandbox",12,19
+V1.5 API,API beta with 5 accounts,18,23
+Audience pilot,Consent-gated segment + 1 activation partner,12,25
+Launch,Public launch of reports (month 6),24,26
+V2 (later),"Alerts, forecasts, clean-room delivery",26,40
+V2 (later),Data licensing (aggregated),30,44
