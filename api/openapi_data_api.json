@@ -1,0 +1,226 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "Category Demand Insights API (case study)",
+    "version": "1.0.0",
+    "description": "Illustrative contract. Aggregated outputs only; cells under the k-anonymity threshold are suppressed."
+  },
+  "servers": [
+    {
+      "url": "https://api.example.com"
+    }
+  ],
+  "security": [
+    {
+      "ApiKeyAuth": []
+    }
+  ],
+  "paths": {
+    "/v1/categories": {
+      "get": {
+        "summary": "List categories",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "example": {
+                  "data": [
+                    {
+                      "id": "solar-equipment",
+                      "name": "Solar Equipment"
+                    },
+                    {
+                      "id": "packaging-materials",
+                      "name": "Packaging Materials"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/demand-index": {
+      "get": {
+        "summary": "Demand index by category and region",
+        "parameters": [
+          {
+            "name": "category",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "region",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "north",
+                "south",
+                "east",
+                "west",
+                "central"
+              ]
+            }
+          },
+          {
+            "name": "from",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date"
+            }
+          },
+          {
+            "name": "to",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "category": {
+                            "type": "string"
+                          },
+                          "region": {
+                            "type": "string"
+                          },
+                          "month": {
+                            "type": "string"
+                          },
+                          "enquiry_index": {
+                            "type": "number",
+                            "description": "100 = 24-month average"
+                          },
+                          "yoy_pct": {
+                            "type": "number"
+                          },
+                          "suppressed": {
+                            "type": "boolean"
+                          }
+                        }
+                      }
+                    },
+                    "meta": {
+                      "type": "object"
+                    }
+                  }
+                },
+                "example": {
+                  "data": [
+                    {
+                      "category": "Solar Equipment",
+                      "region": "west",
+                      "month": "2026-09",
+                      "enquiry_index": 104.0,
+                      "yoy_pct": 5.6,
+                      "suppressed": false
+                    }
+                  ],
+                  "meta": {
+                    "k_threshold": 50,
+                    "suppressed_cells": 0,
+                    "as_of": "2026-10-01"
+                  }
+                }
+              }
+            }
+          },
+          "429": {
+            "description": "Quota exceeded"
+          }
+        }
+      }
+    },
+    "/v1/trends/top-movers": {
+      "get": {
+        "summary": "Fastest rising and falling categories",
+        "parameters": [
+          {
+            "name": "window",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "3m",
+                "6m",
+                "12m"
+              ]
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "example": {
+                  "rising": [
+                    {
+                      "category": "Solar Equipment",
+                      "yoy_pct": 5.6
+                    }
+                  ],
+                  "falling": [
+                    {
+                      "category": "Textiles & Fabrics",
+                      "yoy_pct": -2.1
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/usage": {
+      "get": {
+        "summary": "Current plan usage",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "example": {
+                  "plan": "API Starter",
+                  "calls_used": 4120,
+                  "calls_limit": 10000,
+                  "resets_on": "2026-11-01"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "securitySchemes": {
+      "ApiKeyAuth": {
+        "type": "apiKey",
+        "in": "header",
+        "name": "X-API-Key"
+      }
+    }
+  }
+}
